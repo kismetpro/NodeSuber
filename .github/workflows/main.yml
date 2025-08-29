@@ -2,6 +2,7 @@ name: Update Configs
 permissions: write-all
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
