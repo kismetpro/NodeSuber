@@ -1,3 +1,5 @@
+<div align="center">
+
 # NodeSuber
 
 **选择您的语言 / Select Your Language / Выберите ваш язык / زبان خود را انتخاب کنید**
@@ -470,3 +472,6 @@ python main.py
 ### تست
 - این پروژه در حال حاضر تنظیمات تست ندارد.
 
+</details>
+
+</div>
