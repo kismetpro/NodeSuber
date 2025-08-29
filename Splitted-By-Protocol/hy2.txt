@@ -85,16 +85,13 @@ hy2://peEduuHzbExjK7UQHzazXwqgA@166.88.164.9:27704/?insecure=1&sni=bing.com#US
 hy2://vlJbyJEtcNjHvV6dnkZ1Z4VjpI@13.212.75.22:10264/?insecure=1&sni=bing.com#新加坡
 hy2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789/?insecure=1&sni=bing.com#JP
 hy2://yn3gMvdZ0hpReiimChE1H1BFvE@54.199.157.111:26036/?insecure=1&sni=bing.com#JP
-hy2://dongtaiwang.com@108.181.5.130:63015/?insecure=1&sni=apple.com#%3E%3E%40shadowproxy66%3A%3AUS
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AUS
 hy2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3ADE
 hy2://3hszBhqVsUhqOOFWJlev6k6Tkc@47.129.224.62:22509/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3ASG
-hy2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%3E%3E%40shadowproxy66%3A%3AUS
-hy2://XK52yierGckONMJWbJnuskD3unI@47.242.195.121:12854/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3AHK
-hy2://RzQrEkAmnGs86IhmSVUk9Q5cn9M@47.236.104.81:30308/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3ASG
-hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3AGB
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AFR
-hy2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3ASG\n//profile-title: base64:8J+RkSBAUmF5YW5fQ29uZmlnICDwn5GR
+hy2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3ASG
+hy2://c8631767-f45c-4f48-bf19-5405e6d18679@45.136.245.177:33079/?insecure=1&obfs=salamander&obfs-password=NDhhNmY5YTY0MGYzOTgxYQ%3D%3D#%3E%3E%40shadowproxy66%3A%3AUS
+hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3AGB
 hy2://79c4fe11-9787-406b-bf94-c1c1dbf59e28@77.223.214.193:31468/?insecure=1&sni=www.bing.com#%E2%8F%B046%40oneclickvpnkeys
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%9B%B0%EF%B8%8F15%40oneclickvpnkeys
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%8F%B045%40oneclickvpnkeys
