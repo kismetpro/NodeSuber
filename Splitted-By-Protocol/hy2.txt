@@ -47,8 +47,7 @@ hy2://fabd2b79-693a-4a37-827c-6d299e8813b1@133.18.163.202:443/?mport=50000-55000
 hy2://fabd2b79-693a-4a37-827c-6d299e8813b1@133.18.163.202:443/?mport=50000-55000&insecure=1&sni=www.microsoft.com#Channel id: @proxy_kafee🇯🇵
 hy2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇯🇵
 hy2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712/?insecure=1&sni=bing.com#Channel id: @proxy_kafee🇯🇵
-hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AUS
-hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AFR
+hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AXX
 hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3AGB
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%8F%B045%40oneclickvpnkeys
 hy2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com
