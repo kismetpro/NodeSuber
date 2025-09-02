@@ -93,6 +93,6 @@ hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%4
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AFR
 hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3AGB
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%8F%B045%40oneclickvpnkeys
-hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36400/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%E2%9C%A83%40oneclickvpnkeys
 hy2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com
 hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com```
+hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:30300/?insecure=1&sni=www.bing.com#13%F0%9F%90%B8%40oneclickvpnkeys`
