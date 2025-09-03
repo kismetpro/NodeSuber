@@ -46,7 +46,6 @@ hy2://fabd2b79-693a-4a37-827c-6d299e8813b1@133.18.163.202:443/?mport=50000-55000
 hy2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712/?insecure=1&sni=bing.com#Channel id: @ShadowProxy66🇯🇵
 hy2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712/?insecure=1&sni=bing.com#Channel id: @proxy_kafee🇯🇵
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AXX
-hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#%3E%3E%40shadowproxy66%3A%3AGB
 hy2://dongtaiwang.com@108.181.5.130:63015?insecure=1&sni=apple.com
 hy2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com```
 hy2://2429bee3-e0c1-47dd-b420-75e6512b184b@40.233.102.224:30300/?insecure=1&sni=www.bing.com#13%F0%9F%90%B8%40oneclickvpnkeys`
