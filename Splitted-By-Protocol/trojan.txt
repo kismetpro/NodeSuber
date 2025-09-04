@@ -214,7 +214,21 @@ trojan://tunnel-astrovpnvpn_official@fr-1.stunnel.cc:8441?security=tls&sni=zula.
 trojan://wQz5G4ybA9eC3BQDkd@ee-1.kamediorg.com:443?security=tls&headerType=none&fp=chrome&type=tcp&sni=ee-1.kamediorg.com#@HiByeVPNN👈⚡❤️‍🔥
 trojan://🤠JKVPN_JKVPN🤠@www.speedtest.net:80?path=/TELEGRAM_BYA_CHANEL_JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN-JKVPN?ed=2048&security=none&host=joker.ahang-alpha.ir&type=ws#🇩🇪 Telegram @SRCVPN
 trojan://ZU%290ryc%24VSrG@104.17.148.22:443?path=%2Ftrg2dhGAnG15ULOP7i%3Fed%3D2560&security=tls&alpn=http%2F1.1&host=uk2wbo0ikx3iyi4i9wjdyu6y-o28et7o.pages.dev&fp=randomized&type=ws&sni=uk2WbO0iKx3IyI4i9WjdYU6Y-O28ET7o.pagEs.DeV#%F0%9F%87%A7%F0%9F%87%B7%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
-trojan://2ee85121-31de-4581-a492-eb00f606e392@185.208.207.217:443?security=tls&headerType=none&type=tcp&sni=dus.freeguard.org#%3E%3E%40free4allVPN%3A%3AXX
+trojan://20U1d7h4xe@news.farsonline24.ir:443?security=tls&fp=chrome&type=httpupgrade&path=%2F22124%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://MuK9FtxC2y@news.farsonline24.ir:443?security=tls&fp=chrome&type=ws&path=%2F55836%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://JPPDF8O3AI@news.farsonline24.ir:443?security=tls&fp=chrome&type=ws&path=%2F25973%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://nhBIVJQUrR@news.farsonline24.ir:443?security=tls&fp=chrome&type=ws&path=%2F19155%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://vyTVu45Xrk@news.farsonline24.ir:443?security=tls&fp=chrome&type=ws&path=%2F23863%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://IeHEg9sFfn@news.farsonline24.ir:443?security=tls&fp=chrome&type=httpupgrade&path=%2F33449%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://fPxa9BuGVQ@news.farsonline24.ir:443?security=tls&fp=chrome&type=httpupgrade&path=%2F11533%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://veYrpdgYpr@news.farsonline24.ir:443?security=tls&fp=chrome&type=httpupgrade&path=%2F33780%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://e1Ix4bz88Z@news.farsonline24.ir:443?security=tls&fp=chrome&type=httpupgrade&path=%2F42142%2Fmehdi#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://Gq9UTAqjl9@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F28231%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://G1s7VYEyAe@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F20379%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://OBYMYoqYAL@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F17188%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://uOFIsGRP5W@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F50255%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://gTVV0J43jN@news.farsonline24.ir:443?security=tls&fp=chrome&type=grpc&authority=&serviceName=%2F28985%2Fmehdi&mode=gun#%3E%3E%40v2ray_configs_pool%3A%3ADE
+trojan://1ce1df7962f71c6f@uk-03.allhubb.info:8443?security=tls&headerType=none&type=tcp&sni=uk-03.allhubb.info#%3E%3E%40free4allVPN%3A%3AGB
 trojan://2ee85121-31de-4581-a492-eb00f606e392@198.46.152.83:443?security=tls&sni=sj3.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-198.46.152.83-0321
 trojan://2ee85121-31de-4581-a492-eb00f606e392@192.3.107.252:443?security=tls&sni=rc8.freeguard.org#%F0%9F%87%BA%F0%9F%87%B8US-192.3.107.252-0326
 trojan://2ee85121-31de-4581-a492-eb00f606e392@45.91.171.116:443?security=tls&sni=sto.freeguard.org#%F0%9F%87%B8%F0%9F%87%AASE-45.91.171.116-0335
