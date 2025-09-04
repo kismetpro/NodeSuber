@@ -1,3 +1,4 @@
+trojan://20U1d7h4xe@news.farsonline24.ir:443?security=tls&fp=chrome&type=httpupgrade&path=%2F22124%2Fmehdi#%F0%9F%94%B7%F0%9F%86%94%40v2ray_configs_pool%F0%9F%94%B7
 trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
 trojan://457f64d5-cc68-4911-82ee-636ebb568a46@csgo.com:8443?allowInsecure=0&sni=cdn-node-oss-99.paofu.de&ws=1&wspath=%2Fprofile%2Ftelegram%40ssrsub#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD04%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fdafei.de
 trojan://457f64d5-cc68-4911-82ee-636ebb568a46@pubg.ac:8443?allowInsecure=0&sni=cdn-node-oss-99.paofu.de&ws=1&wspath=%2Fprofile%2Ftelegram%40ssrsub#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD06%20%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A%2F%2Fdafei.de
