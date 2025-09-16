@@ -7,4 +7,3 @@ hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#Channel 
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#Channel id: @ShadowProxy66🇫🇷
 hy2://fabd2b79-693a-4a37-827c-6d299e8813b1@133.18.163.202:443/?mport=50000-55000&insecure=1&sni=www.microsoft.com#Channel id: @ShadowProxy66🇯🇵
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40shadowproxy66%3A%3AUS
-hy2://8d80603a-d7d7-4bcd-ad88-aaf1cf70b8c6@00fd98-co.9966661.xyz:3000/?sni=00fd98-co.9966661.xyz#%F0%9F%A5%8F82%40oneclickvpnkeys
