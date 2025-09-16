@@ -6566,10 +6566,6 @@ vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.54:8880?security=&fp=chro
 
 vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.93:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2039
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:53432/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:53432/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -6605,10 +6601,6 @@ hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:53432/?sni=real.
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:53432/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
-hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:53432/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
