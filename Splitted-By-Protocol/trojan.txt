@@ -37,7 +37,13 @@ trojan://253bc477d4e43c209f2d427272968280@36.151.251.6:4801?allowInsecure=1&sni=
 trojan://253bc477d4e43c209f2d427272968280@36.151.251.6:9160?allowInsecure=1&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3294?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
 trojan://253bc477d4e43c209f2d427272968280@153.121.73.102:3296?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD4%7C%40ripaojiedian
-trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@www.tiktok.com.jp2.viefast.net:443?allowInsecure=1&sni=www.linemo.jp#JP_speednode_0018
+trojan://453121aa-6c1d-33ed-a175-cb46aa8f22f0@suningyunyou.judelvin.com:13028?allowInsecure=0&sni=3t49hrhac.qqtoup81.top#CN_speednode_0006
+trojan://453121aa-6c1d-33ed-a175-cb46aa8f22f0@suningyunyou.judelvin.com:13033?allowInsecure=0&sni=hg2983hrfx.qqtoup81.top#CN_speednode_0008
+trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000?allowInsecure=1&sni=aliyun.com#HK_speednode_0014
+trojan://juzi@140.83.57.183:22735?allowInsecure=1&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev&path=/?ed=2560#JP_speednode_0019
+trojan://9e76767d-4bfa-4f04-a800-42e2f63afed2@160.16.104.143:443?allowInsecure=1&sni=www.linemo.jp#JP_speednode_0020
+trojan://installshield@38.180.249.177:8443?allowInsecure=1&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc#NL_speednode_0022
+trojan://juzi@154.29.155.249:443?allowInsecure=1&sni=juzi8186-sr1.pages.dev&type=ws&host=juzi8186-sr1.pages.dev&path=/?ed=2560#US_speednode_0029
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
 trojan://----telegram--ISVvpn----@mashti.isvcloud2.ir:1010?security=none&headerType=&type=tcp#telegram-@ISVvpn
 trojan://----telegram--ISVvpn----@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
