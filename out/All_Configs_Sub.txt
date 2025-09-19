@@ -6063,6 +6063,10 @@ hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#%40
 
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com#%40Rayan_Config%204
 
+hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
+
+hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:53432/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:53432/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
