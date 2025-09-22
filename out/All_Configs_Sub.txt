@@ -5665,10 +5665,6 @@ hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@172.252.236.213:57588/?sni=real
 
 hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:41749/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:41749/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:41749/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -5696,10 +5692,6 @@ hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:41749/?sni=real.
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%205
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%201
-
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@172.252.236.213:57588/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:41749/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1#@Rayan_Config%202
 
