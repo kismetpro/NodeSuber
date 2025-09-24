@@ -152,8 +152,8 @@ trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:3296?security=tls&sni=w
 trojan://253bc477d4e43c209f2d427272968280@160.16.117.182:4397?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.117.182-0588
 trojan://253bc477d4e43c209f2d427272968280@160.16.236.32:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.236.32-0584
 trojan://6et7U7udLe@qige.zaide.tech:22846?security=tls&sni=qige.zaide.tech#%F0%9F%87%AF%F0%9F%87%B5JP-8.209.223.114-0674
-trojan://1sbtkLK7F3@195.22.157.104:55700?path=%2Fmoshali-kirm-to-filterchee-kharkosde2&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=joon.arshiacomplus.dpdns.org#trojan-ws-tls```
 trojan://1sbtkLK7F3@195.22.157.104:37085/?type=httpupgrade&host=joon.arshiacomplus.dpdns.org&path=%2Fmoshali2plus&security=tls&sni=joon.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=firefox#trojan-httpupgrade-tls
+trojan://1sbtkLK7F3@195.22.157.104:55700?path=%2Fmoshali-kirm-to-filterchee-kharkosde2&security=tls&alpn=http%2F1.1&host=joon.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=joon.arshiacomplus.dpdns.org#trojan-ws-tls```
 trojan://XWnVX2ASHl@5.255.103.217:37757?type=ws&path=%2Fmoshaliplus&host=moshali.arshiacomplus.dpdns.org&security=tls&fp=firefox&alpn=http%2F1.1&sni=moshali.arshiacomplus.dpdns.org#tr-ws-tls-e70f44vs
 trojan://2ee85121-31de-4581-a492-eb00f606e392@51.81.203.233:443?security=tls&headerType=none&type=tcp&sni=rs4.freeguard.org#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B2
 trojan://02XtoczO7V@creativecommons.org:443?path=%2Fhishhhh123&security=tls&alpn=http%2F1.1&host=mooshali.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=mooshali.arshiacomplus.dpdns.org#TR+ws+tls-xmdgfvso3
