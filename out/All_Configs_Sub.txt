@@ -8354,8 +8354,6 @@ vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAy
 
 vless://f5f2458c-5fcb-4820-82c2-2997492c54d5@62.60.192.209:80?security=&fp=chrome&type=ws&path=/&encryption=none#@Rayan_Config%2053
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
