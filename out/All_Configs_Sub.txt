@@ -8158,8 +8158,6 @@ hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:50440/?sni=real.
 
 hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
