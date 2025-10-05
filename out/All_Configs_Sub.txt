@@ -8453,10 +8453,6 @@ hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@172.252.236.213:52368/?sni=real
 
 hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
-hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -8477,10 +8473,6 @@ hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@172.252.236.213:52368/?sni=real
 
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -8498,10 +8490,6 @@ hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1#@Rayan_Config%205
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#@Rayan_Config%2011
 
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com#@Rayan_Config%202
-
-hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
-hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:50440/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@172.252.236.213:52368/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
