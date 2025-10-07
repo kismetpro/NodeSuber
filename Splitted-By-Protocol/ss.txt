@@ -76,7 +76,7 @@ ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443#%F0%9F%87%AD%F0%9F%87%
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.233:38388#%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2WVcxaGVtOXVjMnR5TURV@34.245.185.129:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian%20
 ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2V0c0NGFrdGtiVVJOTURCSlpVOGxJeVFqWmtwQlRYUnpSVUZGVlU5d1NDOVpWMWwwV1hGRVJtNVVNRk5X@103.186.155.233:38388#%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
-ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian\nxÝ²ÄaÏ_3ðN¸±y¡÷@/±ÕH÷0£Û°3ÌÚ³Ú^q¼¢o²ÿÿ'`v{HTè(®µ~å1oX²¹øsi·ÝVäÔúô(uXói¥³ó1ÂZ0eÑS*ä»_CF¹ë//Å¸ÆÝ<¥Ã¼«Z©Ñ`WÄ¬ÿâàìh:Ç=FZDç¤FX°\Øó¯«i_OäÂ ´lìB»N>ûc¤ÆèdæP
+ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian\nxÝ²ÄaÏ_3ðN¸±ÌÌ+Ü)ETî¤o¥7}q¢!¶Ò ©íñ[	3Cþ°ºöù¯{UØ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@meli_proxyy
 ss://2de6ac2d-bde6-478a-a00e-c73475ee31ac@37.152.173.11:42535?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Zanjan🅿️ping:103.23ms
