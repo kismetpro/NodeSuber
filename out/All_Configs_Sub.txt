@@ -8049,6 +8049,10 @@ hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@172.252.236.213:43649/?sni=real
 
 hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
+hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@172.252.236.213:43649/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
+
+hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
+
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@172.252.236.213:43649/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
@@ -8083,7 +8087,7 @@ hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg1.aeccghuyjftyg.shop:20000?ob
 
 hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E2%98%81%EF%B8%8F%E7%BE%8E%E5%9B%BD3
 
-hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A480.7%20GB
+hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E5%89%A9%E4%BD%99%E6%B5%81%E9%87%8F%EF%BC%9A480.19%20GB
 
 hysteria2://77f36a7e-2b59-4c23-98b0-902e2ded0210@mg1.aeccghuyjftyg.shop:20000?obfs=salamander&obfs-password=fdrccJDGatdFDDRp&insecure=0#%E5%A5%97%E9%A4%90%E5%88%B0%E6%9C%9F%EF%BC%9A2026-10-08
 
