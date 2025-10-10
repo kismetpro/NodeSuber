@@ -7677,10 +7677,6 @@ vless://eeb94a25-8f00-458f-b857-34736edc97d4@141.227.172.59:14078?security=&fp=c
 
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@172.252.236.213:57275/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@172.252.236.213:57275/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
 
 hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
