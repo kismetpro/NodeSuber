@@ -7893,10 +7893,6 @@ hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@172.252.236.213:57275/?sni=real
 
 hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@172.252.236.213:57275/?sni=real.getafreenode.sbs#Marseille-GetAFreeNode
-
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:47230/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1#@Rayan_Config%202
 
 hysteria2://dongtaiwang.com@208.87.243.187:22222?insecure=1&sni=www.bing.com#@Rayan_Config%203
