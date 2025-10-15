@@ -47,8 +47,7 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:2283?allowInsecure=0&sni
 trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:1085?allowInsecure=0&sni=www.nintendogames.net#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:6752?allowInsecure=1&sni=fe2.update.microsoft.com#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://c53647f3153f784b3c695ffbe5fb43c0@36.156.102.84:2381?allowInsecure=1&sni=fe2.update.microsoft.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
-trojan://wb6368@92.243.75.49:2087?allowInsecure=0&sni=hsdgbuys.pages.dev&type=ws&host=hsdgbuys.pages.dev&path=/#SG_speednode_0018
-trojan://installshield@38.180.106.124:8443?allowInsecure=1#SG_speednode_0020
+trojan://e531d1bc-a56f-4e1a-a295-1442369a19c1@e4d7a1c2f3b80976a5e2c1d4b3f0a987.1kmei.com:26004?allowInsecure=1&sni=www.bilibili.com#CN_speednode_0002
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
 trojan://----telegram--ISVvpn----@mashti.isvcloud2.ir:1010?security=none&headerType=&type=tcp#telegram-@ISVvpn
 trojan://----telegram--ISVvpn----@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
