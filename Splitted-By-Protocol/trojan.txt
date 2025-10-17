@@ -48,6 +48,7 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5041?allowInsecure=1&sn
 trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.56.122:5321?allowInsecure=1&sni=www.baidu.com#%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40ripaojiedian
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:2381?allowInsecure=1&sni=www.baidu.com#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.106.144:2467?allowInsecure=1&sni=www.baidu.com#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
+trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?allowInsecure=0&sni=joss.krikkrik.xyz&type=ws&host=joss.krikkrik.xyz&path=/Free-VPN-CF-Geo-Project/AE5#US_speednode_0054
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
 trojan://----telegram--ISVvpn----@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://----telegram--ISVvpn----@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی
