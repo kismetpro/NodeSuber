@@ -8895,10 +8895,6 @@ hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@104.250.239.32:53810/?sni=real.
 
 hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:45294/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@104.250.239.32:53810/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
-
-hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:45294/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@104.250.239.32:53810/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 
 hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:45294/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
