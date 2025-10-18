@@ -22,23 +22,22 @@ trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:5041?allowInsecure=1&sni
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:5321?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%AC%20%E6%96%B0%E5%8A%A0%E5%9D%A12%7C%40stairnode
 trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2381?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%7C%40stairnode
 trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2467?allowInsecure=1&sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD2%7C%40stairnode
-trojan://d0728e94-82c2-456b-b5d4-eeab540599df@172.67.192.215:443?type=ws&sni=joss.krikkrik.xyz&path=/Free-VPN-CF-Geo-Project/AE5&host=joss.krikkrik.xyz#US
-trojan://iwangjie@135.125.232.253:2053?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
-trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:5321?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://ba3af426-765e-46d6-b157-ad0f1cdf3b3c@bestcdn1.868863.xyz:443?sni=tt-a5-cdn.the-best-airport.top#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&type=ws&sni=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A52
+trojan://iwangjie@141.94.68.216:2053?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD
+trojan://ba3af426-765e-46d6-b157-ad0f1cdf3b3c@bestcdn3.868863.xyz:443?sni=tt-c5-cdn.the-best-airport.top#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
+trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:5321?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A12
+trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&type=ws&sni=vpn.stupidworld.web.id&path=/Stupid-World/103.106.228.126-2053&host=vpn.stupidworld.web.id#%E6%9C%AA%E7%9F%A53
+trojan://iwangjie@83.147.254.185:443?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
+trojan://iwangjie@138.124.118.34:443?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2381?sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:1331?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC
-trojan://ef269dbc-0486-451f-b94b-d0c354bc3f1c@tuntro001.instconn.com:443?sni=awshk.686911.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
-trojan://iwangjie@138.124.118.34:443?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
-trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.92:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2%201.1MB%2Fs
+trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.92:443?sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
+trojan://BxceQaOe@36.151.195.112:4556?#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:316?sni=www.baidu.com#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC2
+trojan://ba3af426-765e-46d6-b157-ad0f1cdf3b3c@bestcdn1.868863.xyz:443?sni=tt-a5-cdn.the-best-airport.top#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD7
 trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:5041?sni=www.baidu.com#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
-trojan://ba3af426-765e-46d6-b157-ad0f1cdf3b3c@bestcdn3.868863.xyz:443?sni=tt-c5-cdn.the-best-airport.top#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
-trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2467?sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
-trojan://iwangjie@141.94.68.216:2053?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13
-trojan://BxceQaOe@36.151.195.112:4556?#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
-trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2381?sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14
-trojan://iwangjie@83.147.254.185:443?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD15
+trojan://c53647f3153f784b3c695ffbe5fb43c0@153.121.41.97:2467?sni=www.baidu.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11
+trojan://iwangjie@135.125.232.253:2053?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13
+trojan://ef269dbc-0486-451f-b94b-d0c354bc3f1c@tuntro001.instconn.com:443?sni=awshk.686911.xyz#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD15
 trojan://c53647f3153f784b3c695ffbe5fb43c0@58.152.30.92:443?allowInsecure=0&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://BxceQaOe@36.151.195.112:4556?allowInsecure=1#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
 trojan://c53647f3153f784b3c695ffbe5fb43c0@160.16.131.243:1331?allowInsecure=1&sni=www.baidu.com#%E6%97%A5%E6%9C%AC2%7C%40ripaojiedian
@@ -105,10 +104,13 @@ trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn
 trojan://on4fCamU2E@91.107.252.182:26805?type=tcp&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی ها فرگمنت رو خاموش کنید ✅  𝐂𝐡𝐚𝐧𝐧𝐞𝐥: @ISVvpn
 trojan://slch2024@192.169.223.87:2096?path=Telegram@V2rayAlpha&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#All-@IRAN_V2RAY1
 trojan://slch2024@209.94.90.195:2096?path=Telegram&security=tls&host=ocost-dy.wmlefl.cc&type=ws&sni=ocost-dy.wmlefl.cc#WiFi-@IRAN_V2RAY1
+trojan://telegram-id-directvpn@3.121.146.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:50.06ms
+trojan://telegram-id-directvpn@3.121.146.203:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:51.1ms
 trojan://telegram-id-directvpn@63.177.201.129:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846305153065662
 trojan://telegram-id-directvpn@63.179.194.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846335352414210
 trojan://telegram-id-privatevpns@13.39.90.33:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846233430488980
 trojan://telegram-id-privatevpns@13.42.217.95:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#@awlix_ir
+trojan://telegram-id-privatevpns@3.121.146.203:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:49.7ms
 trojan://telegram-id-privatevpns@3.72.164.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846248529991043
 trojan://telegram-id-privatevpns@35.181.217.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846225881400527
 trojan://telegram-id-privatevpns@35.181.218.22:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846259855136377
@@ -116,6 +118,7 @@ trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&sni=trojan.burg
 trojan://telegram-id-privatevpns@52.47.52.84:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846256079945251
 trojan://telegram-id-privatevpns@63.178.172.63:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846244755826672
 trojan://telegram-id-privatevpns@63.179.170.59:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#t.me/entryNET/config=1846216444107170
+trojan://telegram-id-v2rayvpnchannel@63.179.194.196:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#👉🆔@freenettir📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:80.22ms
 trojan://ttfang@45.131.4.216:2096?path=/Telegram&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#🇮🇷@AZARBAYJAB1
 trojan://ttfang@5.182.85.194:2096?path=Telegram@Config_Rayegan&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://ttfang@5.182.85.194:2096?path=Telegram@V2rayAlpha&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#All--@IRAN_V2RAY1
