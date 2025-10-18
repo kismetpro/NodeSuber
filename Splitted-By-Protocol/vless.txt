@@ -6907,7 +6907,6 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.128.54.6:8880?security=&fp=chrom
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.142:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20142
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.140.147.74:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20141
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.144.28.5:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20140
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.241:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%2029
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.242:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20138
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@45.89.107.245:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20137
 vless://df0680ca-e43c-498d-ed86-8e196eedd012@80.92.206.19:8880?security=&fp=chrome&type=grpc&encryption=none#@Rayan_Config%20129
