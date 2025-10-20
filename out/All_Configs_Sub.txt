@@ -9716,10 +9716,6 @@ hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@104.250.239.32:53810/?sni=real.
 
 hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:45294/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@104.250.239.32:53810/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
-
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:45294/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%201
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%203
@@ -9735,10 +9731,6 @@ hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.c
 hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@104.250.239.32:53810/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
 
 hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:45294/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
-
-hysteria2://f901861b-6491-450c-b500-606b2e921625@104.250.239.32:53810/?sni=real.getafreenode.sbs#Fremont-GetAFreeNode
-
-hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:45294/?sni=real.getafreenode.sbs#Kyiv-GetAFreeNode
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%20135.225.124.80
 
