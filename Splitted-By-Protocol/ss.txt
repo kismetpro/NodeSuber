@@ -78,7 +78,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.171:8080#telegram 🎯 v2ray_configs_pools
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.178:8080#@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#@AYMH19 کانال تلگرام
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#@V2rayNGVPN+<=+کانفیگ+رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#All-@IRAN_V2RAY1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172#Telegram:@tik7net_vpn 🇸🇪
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:48172#@EXPRESSVPN_420:🇸🇪
@@ -102,7 +101,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N3N6QjkyMDRianlkaXlRRWFDaE9O@78.40.198.60:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N3N6QjkyMDRianlkaXlRRWFDaE9O@78.40.198.60:47346?note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2N3N6QjkyMDRianlkaXlRRWFDaE9O@78.40.198.60:47346?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Ynl6aU51TWllc3pCbjRodVFNak1a@81.90.31.219:443#@AblNet7 🇮🇷 نت ملی 🇮🇶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Ynl6aU51TWllc3pCbjRodVFNak1a@81.90.31.219:443?note=@freeOnlineVPN#🇷🇺 - RU - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aFZvd2pjYzgycDZOdTlVdk9YaGhG@39.104.68.204:8443#🇨🇳1@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTE1UTBvam9qQkY3bWMyRjdLTGtO@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTE1UTBvam9qQkY3bWMyRjdLTGtO@77.83.246.74:443?note=@freeOnlineVPN#🇵🇱 - PL - @freeOnlineVPN
@@ -201,7 +199,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MUZGVXloTUpJRFNoZnl6YnVYem1x@77.83.246.74:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1R1hWWmdYcUI3Um5Ea0J4ZDFSeUl1@91.204.74.95:27335#🇫🇮@vpnserverrrکانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1U1AweENNdTlkNmNkVnhrSDlKTURF@91.204.75.128:14731#🇱🇻@vpnserverrr کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1cU01bGZHMkpwbXpwOEdkUjJtTVdD@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1cU01bGZHMkpwbXpwOEdkUjJtTVdD@77.83.246.74:443?note=@freeOnlineVPN#🇵🇱 - PL - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2MjNzSzFmQ0hkdDh4TG84MUZjOFhG@91.194.160.151:1235?note=--Telegram--@NetifyVPN--#🇯🇵[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2WFlhVEY0dUFUM0JRM3hvaGZiVTVO@174.138.17.254:52252?note=--Telegram--@NetifyVPN--#🇸🇬[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2eVhjN042MWRTVTlmaXR4M3QzeDhG@185.140.14.113:443#@MARAMBASHI 🌹
@@ -257,7 +254,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990#@AblNet7 🇮🇷 نت ملی 🇲🇩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.1.175:990?note=@freeOnlineVPN#🇲🇩 - MD - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990#@AblNet7 🇮🇷 نت ملی 🇲🇩
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.123.5.253:990?note=@freeOnlineVPN#🇲🇩 - MD - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#@AblNet7 🇮🇷 نت ملی 🇮🇹
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.163.204.94:990#@AblNet7 🇮🇷 نت ملی 🇭🇺
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@185.163.204.94:990#@Daily_Configs
@@ -341,11 +337,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGM25ZNzNkaTVvbldWM2dvdGJwSTBR@83.147.216.70:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGdGMxN1ZIOVpYUU9ONXZzbEpDWW12@91.186.217.246:31764#🇩🇪 - @FREEV2RNG 9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHY01sSkU3elZ1WXk=@77.83.245.28:443#@AblNet7 🇮🇷 نت ملی 🇹🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHZXBsN2JOS1paN0RYdWlOZEpiV2RH@81.90.31.219:443#@AblNet7 🇮🇷 نت ملی 🇮🇶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHZXBsN2JOS1paN0RYdWlOZEpiV2RH@81.90.31.219:443?note=@freeOnlineVPN#🇷🇺 - RU - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHaFlFdWZucTlNOXl2Z0FjMXlsdmZx@165.22.61.177:18336#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHemRmNWpqUzY5V2lvMzAyYmprZUV6@62.133.63.21:65262#🇹🇷[Telegram:tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIVzVCclA0OFFVNFE5VlBkSldzLVB3@84.234.31.193:1080#🇩🇪 - @FREEV2RNG 14
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5YbU1yRm5lN1RhM3UwcEd1djJG@81.90.29.169:58080#@V2rayNGVPN+<=+کانفیگ+رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5YbU1yRm5lN1RhM3UwcEd1djJG@81.90.29.169:58080#🇳🇱[Telegram:@tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5YbU1yRm5lN1RhM3UwcEd1djJG@81.90.29.169:58080?note=--Telegram--@NetifyVPN--#🇮🇶[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIYU5YbU1yRm5lN1RhM3UwcEd1djJG@81.90.29.169:58080?note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
@@ -353,7 +347,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIbVpmZEduZjJMQmRraWRpdks0VjM5@81.90.31.219:4
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJRDFnMG5RZmxtVlFQWnFta0V0RkNl@77.83.246.74:443#@AblNet7 🇮🇷 نت ملی 🇵🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJRDFnMG5RZmxtVlFQWnFta0V0RkNl@77.83.246.74:443?note=@freeOnlineVPN#🇵🇱 - PL - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJdUs1NU1OQWZlaWxzbWQzell4RkNM@81.90.31.219:443#@AblNet7 🇮🇷 نت ملی 🇮🇶
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJdUs1NU1OQWZlaWxzbWQzell4RkNM@81.90.31.219:443?note=@freeOnlineVPN#🇷🇺 - RU - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKN2FMcDZZZjBQVTdMaUNOSkhGdFls@212.113.106.76:29149#🔥@AblNet7 🇮🇷 نت ملی 🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#@AZARBAYJAB1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#All-@IRAN_V2RAY1
@@ -462,7 +455,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRENCd0t4clFFVW1FWmMycVEyT0M5@212.192.14.224
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRENCd0t4clFFVW1FWmMycVEyT0M5@212.192.14.224:57995#@HiByeVPNN👈⚡❤️‍🔥
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRENCd0t4clFFVW1FWmMycVEyT0M5@212.192.14.224:57995#@MARAMBASHI 🇧🇷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRENCd0t4clFFVW1FWmMycVEyT0M5@212.192.14.224:57995#@sunflowerplato🌻
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2F6aVNJN2ZHbWxVcXRTZGtRUFNE@45.95.232.236:4248#@V2rayNGVPN+<=+کانفیگ+رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2F6aVNJN2ZHbWxVcXRTZGtRUFNE@45.95.232.236:4248#🇨🇭[Telegram:@tik7net_vpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaZ2F6aVNJN2ZHbWxVcXRTZGtRUFNE@45.95.232.236:4248?note=--Telegram--@NetifyVPN--#🇨🇭[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpac0dqTlk2ZUNCWWw2emZoRk80Z01p@194.87.45.189:443#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
@@ -488,7 +480,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#@V2rayNGVPN+<=+کانفیگ+رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#@meli_proxyy
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#limo
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#proxy_mtm
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456#🇩🇪@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@212.224.125.154:57456@V2rayNGVPN <= کانفیگ رایگان
@@ -596,6 +587,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080?note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080?note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇳🇱]t.me/Raiv2mmr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080@V2rayNGVPN <= کانفیگ رایگان
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080r♡ya
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@tawaguard.xyz:8080?note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXJQSVJYekVxbXhwbWpBeE9nY2VZ@45.150.32.13:14628#@Mrconfig_Channel 🩵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprV3o4WUFiWmFsek1Qd3hIaTIxQ3h3@62.133.63.21:65262?note=--Telegram--@NetifyVPN--#🇹🇷[Telegram:NetifyVpn]
@@ -751,9 +743,13 @@ ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.85.144.122:80#✖️1
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@3.85.225.236:80#@AblNet7 🇮🇷 نت ملی 🇺🇸
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.157.30.50:80#@AblNet7 🇮🇷 نت ملی 🇺🇸
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.157.30.50:80#@MARAMBASHI 💙
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.157.30.50:80#@V2rayNGVPN <= کانفیگ رایگان
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.157.30.50:80#@meli_proxyy
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.157.30.50:80#r♡ya
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.157.30.50:80#🇺🇸@FreakConfig
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.157.30.50:80#🇺🇸[Telegram:tik7net_vpn]
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.157.30.50:80@V2rayNGVPN <= کانفیگ رایگان
+ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.157.30.50:80r♡ya
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.81.226.31:80#@meli_proxyy
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.81.226.31:80#🇺🇲@FreakConfig
 ss://YWVzLTI1Ni1nY206ZGFkYTA4MDE=@54.90.226.121:80#@AblNet7 🇮🇷 نت ملی 🇺🇸
