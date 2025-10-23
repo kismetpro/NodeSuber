@@ -342,7 +342,6 @@ ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mo
 vless://ba4c59a5-2e7d-4dc4-c115-27615c978e66@91.98.133.38:443?mode=stream-one&path=%2Fdsf&security=reality&encryption=none&pbk=IbRZfIHJGx6UojlE1uoHJ-eBAXF92z5ST0DrQA7-mDw&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 vmess://eyJhZGQiOiI1Ny4xMjguMTg5LjI1MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia2FwZWxsZW5nLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJDaGFubmVsIGlkOiBAcHJveHlfa2FmZWXwn4es8J+HpyIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYXBlbGxlbmcuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJmYXBlbmcub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQ2hhbm5lbCBpZDogQHByb3h5X2thZmVl8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?mode=gun&security=none&encryption=none&authority=%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN&type=grpc#%F0%9F%87%A8%F0%9F%87%B5%40FreakConfig
 vmess://eyJhZGQiOiI1Ny4xMjkuMjguNjkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJhcmFkaWhhLmNvbSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xpbmt2d3MiLCJwb3J0IjoiNDQzIiwicHMiOiJAcHJveHlfa2FmZWXwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
 vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.21.3.219:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#Channel%20id%3A%20%40@proxy_kafee%20%F0%9F%87%A8%F0%9F%87%A6
 vless://7e296434-2d17-48d3-928d-19eaa34aecb1@185.33.24.229:28495?security=reality&encryption=none&pbk=KXMH8QzaRa66F6GxOR1CanBunO2uHdJvri2zCbar2RQ&headerType=none&fp=chrome&type=tcp&sni=dl.google.com&sid=0ecc2c1392#@meli_proxyy\nvless://b4a29ec1-5569-4ff3-aca2-8183e26fbfe2@104.18.26.90:2096?path=%2Frsjcbpws&security=tls&encryption=none&host=638874929583359846.zagreb-prx-dnraaad.info&type=ws&sni=638874929583359846.zagreb-prx-dnraaad.info#@meli_proxyy
@@ -10426,73 +10425,73 @@ vless://df0680ca-e43c-498d-ed86-8e196eedd012@95.164.6.156:8880?security=&fp=chro
 
 vless://f2a73750-3087-48ff-a763-1348c15dce68@medium.com:443?security=tls&sni=rAyAn-007.mAxImA.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rAyAn-007.mAxImA.DpDnS.OrG&encryption=none#Deploy%20Your%20Own%20Worker%20For%20Creation%20Of%20Configs%20:%20https://vs-worker-creator.rayan.dpdns.org%0A-%20Or%20-%20https://tj-worker-creator.rayan.dpdns.org
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://07c122ad-50b2-4f61-9435-efcf112bb10b@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://0cb527d9-6117-4bcf-a52b-1704b3458cef@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://1045aedf-053c-4585-875d-e2fc3f3ea6dd@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://1fdb6b30-5371-4ff8-a001-efdc4b43d79b@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://23125f6e-ec56-4c26-9714-0bbacdb53d01@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://29fbd51f-03c8-4d76-849a-436e54d58317@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://413c8b50-96bf-4457-82f2-54dfa8685f53@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://45cc0b3a-0adb-4dcc-8f54-4ba3d2cc274e@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://4685eb2a-5ddb-4dc6-9e53-f0c90d6124c1@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://48c2c901-72e6-46d4-ac78-169d73264cbf@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://52816135-d3bc-46bc-a915-09886a2e2b2e@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://55ca7a9e-cf90-49df-b14a-9346c59b73b9@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://5eaa121d-4362-444d-8219-29b02c35303a@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://6bf726db-fb0b-405b-899a-3e263f092eda@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://80b2ac81-ba69-41f9-bb46-820b7b3af4dd@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://942b9cb8-92fa-46ac-ae91-f69c8234434b@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://9c859345-959f-491b-b6fc-65cd7a57aeb3@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#@Rayan_Config%201
 
@@ -10500,23 +10499,23 @@ hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?obfs=salamander&obfs
 
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?obfs=salamander&obfs-password=Yet-Another-Public-Config-1&sni=YAPC-1.afshin.ir#@Rayan_Config%202
 
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
 hysteria2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088?insecure=1&sni=apple.com#@Rayan_Config%204
 
-hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://e31ad3e6-e341-42ac-bdc7-bea02d126fc1@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://ebbeef45-0fd8-40cd-aca5-1e2ce18abeff@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
-hysteria2://f901861b-6491-450c-b500-606b2e921625@104.250.239.32:43253/?sni=imafake.locker#Fremont-GetAFreeNode
+hysteria2://f901861b-6491-450c-b500-606b2e921625@104.250.239.32:43253/?sni=imafake.locker#âFremont-GetAFreeNode
 
-hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:44263/?sni=imafake.locker#Kyiv-GetAFreeNode
+hysteria2://f901861b-6491-450c-b500-606b2e921625@185.126.255.78:44263/?sni=imafake.locker#âKyiv-GetAFreeNode
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@135.225.124.80:48172/?POST%20#Ainita%20Server%20135.225.124.80
 
