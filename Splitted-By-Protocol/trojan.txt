@@ -1,5 +1,4 @@
-trojan://f282b878-8711-45a1-8c69-5564172123c1@172.67.181.173:443?security=tls&sni=vpn.stupidworld.web.id&fp=chrome&type=ws&host=vpn.stupidworld.web.id&path=%2FStupid-World%2F103.106.228.126-2053#%F0%9F%85%BC%F0%9F%85%B4%F0%9F%85%B7%F0%9F%85%B3%F0%9F%85%B8```
-trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.30.133:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+trojan://898e1dca-14b2-4371-abc8-1b9f839bff6d@37.202.200.11:12412?allowInsecure=0&sni=wjp04.weyaf9sdoh2h.space#%F0%9F%87%AE%F0%9F%87%B7%20%E4%BC%8A%E6%9C%97%20V2CROSS.COM
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.30.133:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://BxceQaOe@36.156.102.69:194?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
 trojan://BxceQaOe@36.156.102.82:401?allowInsecure=1#%F0%9F%87%AF%F0%9F%87%B5%20%E6%97%A5%E6%9C%AC%7C%40ripaojiedian
@@ -275,10 +274,7 @@ trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowing
 trojan://D%2BelR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#%3E%3E%40configV2rayNG%3A%3AAE
 trojan://D+elR9-TfYxo.X6JVnrMw@38.54.8.233:11254/?type=tcp&security=tls&sni=fluxfloss.click#%3E%3E%40oneclickvpnkeys%3A%3AAE
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.30.133:443?sni=www.nintendogames.net#%3E%3E%40v2nodes%3A%3AHK
-trojan://ea39fa94f1ee00999337ea1fd3318e69@203.198.122.144:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-203.198.122.144-1139
 trojan://ea39fa94f1ee00999337ea1fd3318e69@58.152.30.133:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.30.133-2297
-trojan://ea39fa94f1ee00999337ea1fd3318e69@160.16.196.59:4452?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.196.59-2300
-trojan://ea39fa94f1ee00999337ea1fd3318e69@182.237.0.26:5321?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-182.237.0.26-2302
 trojan://N0R3eiSMlv8UybTC@154.93.37.169:16526/?type=tcp&security=tls&sni=glowingpickle.bananatornado.click#Telegram+%7C+Payam_Nsi
 trojan://YwuvGJk36B@creativecommons.org:2053?security=tls&sni=kotlet.arshiacomplus.dpdns.org&alpn=http%2F1.1&fp=chrome&type=ws&host=kotlet.arshiacomplus.dpdns.org&path=%2Fyamtekodasayahhh#%40Daily_Configs
 trojan://D%2BelR9-TfYxo.X6JVnrMw@38.54.8.233:11254?security=tls&headerType=none&type=tcp&sni=fluxfloss.click#%F0%9F%A6%8F%F0%9F%90%98%F0%9F%A6%A37
