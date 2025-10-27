@@ -1,35 +1,35 @@
 Starting the V2Ray config processing workflow. / 开始处理 V2Ray 配置。
 Running the app logic to fetch and aggregate configs... / 正在运行应用逻辑以获取和聚合配置...
-[VALID] https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt
-[VALID] https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt
-[VALID] https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
-[VALID] https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/app/sub.txt
-[VALID] https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt
-[VALID] https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed
-[VALID] https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link
-[VALID] https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt
-[VALID] https://raw.githubusercontent.com/ts-sf/fly/main/v2
 [VALID] https://raw.githubusercontent.com/ALIILAPRO/v2rayNG-Config/main/sub.txt
+[VALID] https://raw.githubusercontent.com/ts-sf/fly/main/v2
+[VALID] https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_1.txt
+[VALID] https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_2.txt
+[VALID] https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_3.txt
+[VALID] https://raw.githubusercontent.com/yebekhe/vpn-fail/refs/heads/main/sub-link
 [VALID] https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray
+[VALID] https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2
+[VALID] https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/mtn/sub_4.txt
+[VALID] https://raw.githubusercontent.com/mahsanet/MahsaFreeConfig/refs/heads/main/app/sub.txt
+[VALID] https://raw.githubusercontent.com/Surfboardv2ray/TGParse/main/splitted/mixed
+[VALID] https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt
+[INVALID] https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config
+Failed to fetch https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config: Status 404 / 获取 https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config 失败：状态 404
+[VALID] https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html
 [INVALID] https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config
 Failed to fetch https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config: Status 404 / 获取 https://raw.githubusercontent.com/IranianCypherpunks/sub/main/config 失败：状态 404
 [VALID] https://raw.githubusercontent.com/Rayan-Config/C-Sub/refs/heads/main/configs/proxy.txt
-[INVALID] https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix
-Failed to fetch https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix: Status 404 / 获取 https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix 失败：状态 404
-[INVALID] https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt
-Failed to fetch https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt: Status 404 / 获取 https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt 失败：状态 404
-[VALID] https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt
-[VALID] https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix
-[VALID] https://raw.githubusercontent.com/arshiacomplus/v2rayExtractor/refs/heads/main/mix/sub.html
-[VALID] https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt
-[VALID] https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt
-[VALID] https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt
 [INVALID] https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged
 Failed to fetch https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged: Status 404 / 获取 https://raw.githubusercontent.com/sarinaesmailzadeh/V2Hub/main/merged 失败：状态 404
-[INVALID] https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config
-Failed to fetch https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config: Status 404 / 获取 https://raw.githubusercontent.com/sashalsk/V2Ray/main/V2Config 失败：状态 404
+[VALID] https://raw.githubusercontent.com/HosseinKoofi/GO_V2rayCollector/main/mixed_iran.txt
+[INVALID] https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix
+Failed to fetch https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix: Status 404 / 获取 https://raw.githubusercontent.com/itsyebekhe/HiN-VPN/main/subscription/normal/mix 失败：状态 404
+[VALID] https://raw.githubusercontent.com/Everyday-VPN/Everyday-VPN/main/subscription/main.txt
+[INVALID] https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt
+Failed to fetch https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt: Status 404 / 获取 https://raw.githubusercontent.com/freev2rayconfig/V2RAY_SUBSCRIPTION_LINK/main/v2rayconfigs.txt 失败：状态 404
 [INVALID] https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt
 Failed to fetch https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt: Status 404 / 获取 https://raw.githubusercontent.com/C4ssif3r/V2ray-sub/main/all.txt 失败：状态 404
+[VALID] https://raw.githubusercontent.com/MahsaNetConfigTopic/config/refs/heads/main/xray_final.txt
+[VALID] https://raw.githubusercontent.com/itsyebekhe/PSG/main/lite/subscriptions/xray/normal/mix
 Found 16 unique configs. / 找到 16 个独立配置。
 Successfully wrote configs to out/All_Configs_Sub.txt / 成功将配置写入 out/All_Configs_Sub.txt
 
@@ -40,6 +40,6 @@ Valid: 18
 Invalid: 6
 App logic finished successfully. / 应用逻辑成功完成。
 Running the sort logic to classify configs... / 正在运行排序逻辑以对配置进行分类...
-Sorting complete. Found: 757 vmess, 8648 vless, 300 trojan, 1200 ss, 41 hy2, 2 tuic. / 分类完成。
+Sorting complete. Found: 774 vmess, 8648 vless, 305 trojan, 1182 ss, 41 hy2, 2 tuic. / 分类完成。
 Sort logic finished successfully. / 排序逻辑成功完成。
-V2Ray config processing workflow finished in 0.32 seconds. / V2Ray 配置处理工作流程在 0.32 秒内完成。
+V2Ray config processing workflow finished in 0.75 seconds. / V2Ray 配置处理工作流程在 0.75 秒内完成。
