@@ -1,2 +1,2 @@
-hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056/?insecure=1&sni=lsj3.mangshe.xyz#>>@ShadowsocksM::US
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#>>@oneclickvpnkeys::XX
+hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056/?insecure=1&sni=lsj3.mangshe.xyz#>>@ShadowsocksM::US
