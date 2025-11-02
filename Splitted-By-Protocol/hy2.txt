@@ -1,1 +1,3 @@
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=%F0%9F%94%92#>>@oneclickvpnkeys::XX
+hy2://faa8b629-13ea-4ccd-94dd-ff1615cb1ba1@de1.oomz.ru:30000/?insecure=1&sni=%F0%9F%94%92#>>@oneclickvpnkeys::DE
+hy2://c232f411-96b5-4b07-b2f7-66a434725ffb@193.142.59.41:23899/?insecure=1&sni=hl01.mistea.top#>>@oneclickvpnkeys::NL\n//profile-title: base64:8J+RkSBAUmF5YW5fQ29uZmlnICDwn5GR
