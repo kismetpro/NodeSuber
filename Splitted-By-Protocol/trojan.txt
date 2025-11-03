@@ -4,7 +4,8 @@ trojan://trojan@104.26.12.31:8443?allowInsecure=0&sni=fofang.pages.dev&ws=1&wspa
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?allowInsecure=0&sni=azadnet-bdr.pages.dev&ws=1&wspath=%2Fazadnet-bdr.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://er668@kfjdi.pages.dev:443?allowInsecure=0&ws=1&wspath=%2F%3Fed%3D2048%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN--%40HiByeVPNN#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://BxceQaOe@36.156.102.72:194?allowInsecure=1#_CN_%E4%B8%AD%E5%9B%BD
-trojan://BxceQaOe@58.152.46.98:443?allowInsecure=0#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%E7%94%B5%E8%AE%AF%E7%9B%88%E7%A7%91%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8
+trojan://adbac894-90b9-4913-b77e-a715a8d4ebc8@oss-cn-shanghai.letssepub.com:20021?allowInsecure=0&sni=dingding-doc.com#%F0%9F%87%A8%F0%9F%87%B3%20%E5%B9%BF%E4%B8%9C%E7%9C%81%20%E7%A7%BB%E5%8A%A8
+trojan://BxceQaOe@36.151.192.242:4556?allowInsecure=1#%F0%9F%87%A8%F0%9F%87%B3%20%E6%B1%9F%E8%8B%8F%E7%9C%81%20%E7%A7%BB%E5%8A%A8
 trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?allowInsecure=0&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://BxceQaOe@36.151.192.242:4556?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://BxceQaOe@203.198.122.129:443?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
@@ -263,4 +264,4 @@ trojan://bca467b8c15211d189008a93c7519d3b@221.128.195.9:22581?security=tls&sni=w
 trojan://T%40_WvT8Ho%40LW%25w_%2C@172.66.47.42:2053?path=%2FtrGPZDfetEwuO25SAs%3Fed%3D2560&security=tls&type=ws&sni=NOp-55q.pAgEs.dEv#%25252540NpvV2rayFilTer%252520%25253E%25253E%252540v2ray1_ng%253A%253AUS%3A%3AUS
 trojan://T%40_WvT8Ho%40LW%25w_%2C@nop-55q.pages.dev:2053?path=%2FtrGPZDfetEwuO25SAs&security=tls&host=NOp-55q.pAgEs.dEv&type=ws&sni=NOp-55q.pAgEs.dEv#%252525F0%2525259F%25252587%252525A9%252525F0%2525259F%25252587%252525AA%25252540FreakConfig%252520%25253E%25253E%252540FreakConfig%253A%253AUS%3A%3AUS
 trojan://YwuvGJk36B@creativecommons.org:2053?path=%2Fyamtekodasayahhh&security=tls&alpn=http%2F1.1&host=kotlet.arshiacomplus.dpdns.org&fp=firefox&type=ws&sni=kotlet.arshiacomplus.dpdns.org#%25252540EuServer%252520%25253E%25253E%252540vmess_vless_v2rayng%253A%253AXX%3A%3AXX
-trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.53.42-0292
+trojan://bca467b8c15211d189008a93c7519d3b@58.152.53.42:443?security=tls&sni=www.nintendogames.net#%F0%9F%87%AD%F0%9F%87%B0HK-58.152.53.42-0337
