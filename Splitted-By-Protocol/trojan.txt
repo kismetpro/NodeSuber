@@ -59,7 +59,7 @@ trojan://e4e262d453466988575c397a30562337@117.172.176.24:4553?sni=www.nintendoga
 trojan://BxceQaOe@36.150.215.239:24392?#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD4
 trojan://BxceQaOe@203.198.122.129:443?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF4
 trojan://4f673b32-3360-4bfa-b031-54676e87d1bd@84.235.245.18:34501?security=tls&type=ws&sni=joss.krekkrek.web.id&path=/Free-VPN-CF-Geo-Project/84.235.245.18=34501&host=joss.krekkrek.web.id#%E6%9C%AA%E7%9F%A517
-trojan://BxceQaOe@36.151.192.242:194?#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD5\nhysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%236
+trojan://BxceQaOe@36.151.192.242:194?#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD5\nhysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#%F0%9F%87%B3%F0%9F%87%B1%20-%20NL%20-%20%40freeOnlineVPN%20%235
 trojan://e4e262d453466988575c397a30562337@58.152.53.42:443?allowInsecure=0&sni=www.nintendogames.net#%E9%A6%99%E6%B8%AF3%7C%40ripaojiedian
 trojan://BxceQaOe@36.150.215.231:1655?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF4%7C%40ripaojiedian
 trojan://BxceQaOe@203.198.122.129:443?allowInsecure=1&sni=t.me%2Fripaojiedian#%E9%A6%99%E6%B8%AF5%7C%40ripaojiedian
@@ -71,6 +71,7 @@ trojan://BxceQaOe@36.150.215.137:9713?allowInsecure=1&sni=t.me%2Fripaojiedian#%E
 trojan://e4e262d453466988575c397a30562337@117.172.176.23:4553?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://e4e262d453466988575c397a30562337@160.16.231.103:3777?allowInsecure=1&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@36.150.215.245:9269?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://adbac894-90b9-4913-b77e-a715a8d4ebc8@oss-cn-shanghai.letssepub.com:20021?allowInsecure=0&sni=dingding-doc.com#CN_speednode_0002
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
 trojan://----telegram--ISVvpn----@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://----telegram--ISVvpn----@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی
