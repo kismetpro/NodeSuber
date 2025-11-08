@@ -76,6 +76,8 @@ trojan://BxceQaOe@36.150.215.244:2753?allowInsecure=1&sni=t.me%2Fripaojiedian#%E
 trojan://1b57001bd214304027025a740b6cf1ac@117.172.176.22:373?allowInsecure=0&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD%7C%40ripaojiedian
 trojan://e4e262d453466988575c397a30562337@160.16.150.76:50974?allowInsecure=1&sni=www.nintendogames.net#%E7%BE%8E%E5%9B%BD2%7C%40ripaojiedian
 trojan://BxceQaOe@36.151.251.38:25891?allowInsecure=1&sni=t.me%2Fripaojiedian#%E7%BE%8E%E5%9B%BD3%7C%40ripaojiedian
+trojan://dce3c42b-f259-4b18-b5c1-a42ebef4e732@naiu-hk.05vr9nyqg5.download:13007?allowInsecure=0&sni=cloudflare.node-ssl.cdn-alibaba.com#CN_speednode_0003
+trojan://BxceQaOe@58.152.46.98:443?allowInsecure=1&sni=58.152.46.98#HK_speednode_0013
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
 trojan://----telegram--ISVvpn----@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn
 trojan://----telegram--ISVvpn----@s.isvspeedtest.ir:1010?type=tcp&path=/ISVvpn&host=fonts.gstatic.com&headerType=http&security=none#telegram-@ISVvpn 〰〰〰〰〰〰〰〰〰〰 ‼️نکته: اندرویدی
