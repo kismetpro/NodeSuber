@@ -310,8 +310,6 @@ vless://93cd7e0f-8a81-4076-be8b-6d3bf3f8f810@dl.darkterror.fonixapp.org:20579?al
 vless://160a7b5d-fd67-4e83-8d8e-73dcfb6d91c2@london.fonixapp.org:11133?allowInsecure=0&sni=cloudtalk.io&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RO_speednode_0022
 vless://923509aa-bfb0-4758-a5a1-a6c2d0468169@ef87bb2b.meti-e9q.pages.dev:443?allowInsecure=0&sni=ef87bb2b.meti-e9q.pages.dev&alpn=http/1.1&type=ws&host=ef87bb2b.meti-e9q.pages.dev&path=/ck2vlelfdajoybac?ed=2560fp=chrome&security=tls#US_speednode_0025
 vless://dd2961de-3cff-4b6d-bbd1-819d571df66b@virginia.fonixapp.org:52230?allowInsecure=0&sni=ilovepdf.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#US_speednode_0026
-vless://401374e6-df77-41fb-f638-dad8184f175b@45.82.251.145:80?mode=gun&security=none&encryption=none&authority=---_T&type=grpc&sni=pqh27v7.ipforvetra.shop#[
-vless://56dc390e-bfac-4642-9300-b3deb4c4644a@91.98.88.131:443?mode=auto&path=%2Fsdf&security=reality&encryption=none&pbk=87I7aEBv0W9xl5LoEkJpd_wi6zBbVDUNDA-zZruC53g&fp=chrome&spx=%2F&type=xhttp&sni=store.steampowered.com#%40meli_proxyy
 vless://90d7db9b-972b-4073-8738-12cf42124260@104.19.247.78:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=kawaiifreevpn.pages.dev&fp=chrome&type=ws&sni=kawaiifreevpn.pages.dev#%F0%9F%87%AE%F0%9F%87%B3telegram%20%E2%9E%A0%20%40v2rayNG_Matsuri
 vless://a9c9c197-c626-4667-f219-1575f26715ac@tgju.org:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#%40Daily_Configs
 vless://a9c9c197-c626-4667-f219-1575f26715ac@www.speedtest.net:80?encryption=none&security=none&type=ws&host=fin.channel.digicyber.click&path=%2Folem%2Fws%3Fed%3D1024#%40Daily_Configs
