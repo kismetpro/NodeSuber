@@ -1,3 +1,11 @@
+trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B9
+trojan://c2d6a850-7e35-44f5-ab9f-8299f6f8c72b@194.147.115.149:443?path=%2FFree-VPN-CF-Geo-Project%2F194.147.115.149%3D443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1
+trojan://a5a3350e-6ea2-4e12-ae84-20db849ce1fc@94.131.114.50:81?path=%2FFree-VPN-CF-Geo-Project%2F94.131.114.50%3D81&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%AE%F0%9F%87%B1
+trojan://14d6efcf-b0d3-4054-9d4e-e1347e3ceaa2@213.159.208.88:2053?path=%2FFree-VPN-CF-Geo-Project%2F213.159.208.88%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%B7%F0%9F%87%BA
+trojan://49d416e1-4cec-41e1-bff6-3748c466f275@45.144.48.158:8443?path=%2FFree-VPN-CF-Geo-Project%2F45.144.48.158%3D8443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%B5%F0%9F%87%B1
+trojan://6b5b50ff-7798-40dc-9888-b4dd581e5435@51.89.128.93:44004?path=%2FFree-VPN-CF-Geo-Project%2F51.89.128.93%3D44004&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7
+trojan://8bf6e7d7-23e8-4655-8f07-c3827e2d6ebf@51.38.226.4:2053?path=%2FFree-VPN-CF-Geo-Project%2F51.38.226.4%3D2053&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7
+trojan://63b8ce6d-9a30-4122-a00f-fd47f020dc27@89.28.236.243:443?path=%2FFree-VPN-CF-Geo-Project%2F89.28.236.243%3D443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%B0
 trojan://BxceQaOe@36.151.192.242:194?allowInsecure=1#_CN_%E4%B8%AD%E5%9B%BD
 trojan://BxceQaOe@36.151.192.242:4556?allowInsecure=1#_CN_%E4%B8%AD%E5%9B%BD
 trojan://BxceQaOe@36.150.215.239:24392?allowInsecure=1#_CN_%E4%B8%AD%E5%9B%BD
