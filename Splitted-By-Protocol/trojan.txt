@@ -1,4 +1,3 @@
-trojan://63b8ce6d-9a30-4122-a00f-fd47f020dc27@89.28.236.243:443?security=tls&type=ws&sni=joss.dus.biz.id&path=/Free-VPN-CF-Geo-Project/89.28.236.243=443&host=joss.dus.biz.id#🇩🇰[openproxylist.com]
 trojan://0c7edd8f-96d8-4227-b086-1ffc3aeecc96@193.233.115.79:8443?path=%2FFree-VPN-CF-Geo-Project%2F193.233.115.79%3D8443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40meli_proxyy
 trojan://8221436f-1b7e-4517-9698-0da2a53443e3@45.159.251.8:81?path=%2FFree-VPN-CF-Geo-Project%2F45.159.251.8%3D81&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40meli_proxyy`
 trojan://c2d6a850-7e35-44f5-ab9f-8299f6f8c72b@194.147.115.149:443?path=%2FFree-VPN-CF-Geo-Project%2F194.147.115.149%3D443&security=tls&host=joss.dus.biz.id&fp=randomized&type=ws&sni=joss.dus.biz.id#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1
