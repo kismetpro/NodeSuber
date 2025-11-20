@@ -171,7 +171,6 @@ vless://bccbecc9-c1d2-45d1-b3fa-771a19b9831c@nl.nodes.rocketnetwork.ru:443?allow
 vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?allowInsecure=0&sni=i2pd.website&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#IL_speednode_0014
 vless://14305246-dc93-4b3c-9f6c-d0b29fa7e4fa@ru-msk.shvurgceo.online:51224?allowInsecure=0&sni=download.max.ru&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#RU_speednode_0015
 vless://00f02ab2-6f2d-449f-a089-d182a2fac59a@81.161.98.228:1443?allowInsecure=0&sni=cdn.filterai.ru&type=ws&host=cdn.filterai.ru&path=/websocketplsecurity=tls#RU_speednode_0016
-vless://ca72617f-337c-4b0e-84f0-d3c29f82d2b7@37.221.125.227:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws#@meli_proxyy
 vless://4feab863-0b04-444d-87e5-4375adca92cf@37.18.14.103:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=bitva.mail.ru#[
 vless://4feab863-0b04-444d-87e5-4375adca92cf@37.18.14.103:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=favicon.yandex.net#[
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@159.246.55.253:2096?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&type=ws&host=gaosir.unfeeling.sbs&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%2B%2F%3Fed%3D2560#%40Daily_Configs
