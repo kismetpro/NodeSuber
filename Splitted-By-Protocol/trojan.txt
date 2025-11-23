@@ -1,4 +1,3 @@
-trojan://94a81dc7-e8e6-46e5-838d-84ca142b88b2@94.131.123.74:443?security=tls&type=ws&sni=joss.gpj1.web.id&path=/Free-VPN-CF-Geo-Project/94.131.123.74=443&host=joss.gpj1.web.id#🇺🇸[openproxylist.com]
 trojan://94a81dc7-e8e6-46e5-838d-84ca142b88b2@94.131.123.74:443?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F94.131.123.74%3D443#%F0%9F%87%BA%F0%9F%87%B8%20_US_%E7%BE%8E%E5%9B%BD
 trojan://be94cd60-8e91-4cd6-9c53-26ee1314edfd@178.33.161.196:2053?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F178.33.161.196%3D2053#%F0%9F%87%AB%F0%9F%87%B7%20_FR_%E6%B3%95%E5%9B%BD
 trojan://d78d48df-b788-4a95-9e9f-77c9b2f69822@193.233.114.58:8443?allowInsecure=0&sni=joss.gpj1.web.id&ws=1&wspath=%2FFree-VPN-CF-Geo-Project%2F193.233.114.58%3D8443#%F0%9F%87%B7%F0%9F%87%BA%20_RU_%E4%BF%84%E7%BD%97%E6%96%AF
