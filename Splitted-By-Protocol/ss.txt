@@ -54,30 +54,30 @@ ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443/?plugin=v2ray-plugin%3
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.110:38388#%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40stairnode
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@35.181.172.34:443#%F0%9F%87%AB%F0%9F%87%B7%20_FR_%E6%B3%95%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#%F0%9F%87%A9%F0%9F%87%AA%20_DE_%E5%BE%B7%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@81.19.137.222:57456#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRGF2QmltRG1IMlFMeGxqZjVQU08x@62.210.88.22:443#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD2%20112.5KB%2Fs
-ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD3
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD5
-ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@wangcai.singdns.com:21712#%E6%9C%AA%E7%9F%A528
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8%2017.2KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWE9WakVNc3gwMGplT1F6SHNRcmtM@213.176.16.71:4966#%E6%9C%AA%E7%9F%A529%20317.0KB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B%201.9MB%2Fs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES3lSZG9xUUllYmRLWlZZczVHelc4@45.150.32.13:14628#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD6
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0
-ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@wangcai.singdns.com:23344#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD11
-ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@103.219.103.217:21712#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD7
+ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@wangcai.singdns.com:21712#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpES3lSZG9xUUllYmRLWlZZczVHelc4@45.150.32.13:14628#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B0%20114.6KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwNzhuYUNmMkVmT2xSU0xUWDB3RlZ4@pupas-shirting-unsung.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD4%2015.0KB%2Fs
+ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF2
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@185.177.229.245:1866#%F0%9F%87%A6%F0%9F%87%BAAU%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B02%20446.3KB%2Fs
-ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@103.219.103.217:23344#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD17
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD8\nhysteria2://a2678c97b8d79059@46.62.152.236:443?insecure=1&obfs=salamander&obfs-password=9242a8bf#%40NoForcedheaven
+ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@103.219.103.217:21712#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF3
+ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@wangcai.singdns.com:23344#%E6%9C%AA%E7%9F%A519
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@204.136.10.115:1866#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphNThmYTYyYjQ5NDRkZGJm@147.45.178.200:57456#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.28:8080#%F0%9F%87%B1%F0%9F%87%B9LT%E7%AB%8B%E9%99%B6%E5%AE%9B%2011.2MB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjNDA2NDFjMWY4OWU3YWNi@46.226.163.225:57456#%F0%9F%87%AC%F0%9F%87%A7GB%E8%8B%B1%E5%9B%BD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6STdraU5aMFVmVjljWEI3M2E0blJE@164.92.156.41:24206#%F0%9F%87%B3%F0%9F%87%B1NL%E8%8D%B7%E5%85%B02
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@104.167.197.25:57456#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWE9WakVNc3gwMGplT1F6SHNRcmtM@213.176.16.71:4966#%E6%9C%AA%E7%9F%A551
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5dHFoTWRJclRrZ1E0NlB2aHlBdE1I@switcher-nick-croquet.freesocks.work:443#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD9%209.9KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXRGF2QmltRG1IMlFMeGxqZjVQU08x@62.210.88.22:443#%F0%9F%87%AB%F0%9F%87%B7FR%E6%B3%95%E5%9B%BD2
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxUld3WGh3ZkFCNWdBRW96VTRHMlBn@45.87.175.166:443#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD6%20131.9KB%2Fs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWEdwMStpaGxmS2c4MjZI@172.233.128.126:1866#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5UnZpTmE0dHNjamNtQ0I0MDh2TFNn@46.101.245.131:44354#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMaUhRWDljRGJkb29CSGxJZzBlaXFR@45.144.54.33:34803#%F0%9F%87%A9%F0%9F%87%AADE%E5%BE%B7%E5%9B%BD8
+ss://YWVzLTEyOC1nY206NzlhZDI4NTItZWI3Ni00YzNlLWJhNGQtMzY2OGVlNWVjZTc0@103.219.103.217:23344#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD14
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNlpDSGVhYlVTZktqZlFFdko0SERW@185.242.86.156:54170#%F0%9F%87%B7%F0%9F%87%BARU%E4%BF%84%E7%BD%97%E6%96%AF
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@3.9.17.198:443#tg%E9%A2%91%E9%81%93%3A%40ripaojiedian
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian
 ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@103.186.155.110:38388#%F0%9F%87%BB%F0%9F%87%B3%20%E8%B6%8A%E5%8D%97%7C%40ripaojiedian
@@ -86,9 +86,6 @@ ss://c3M6Ly9ZV1Z6TFRJMU5pMWpabUk2V0c0NGFrdGtiVVJOTURCSlpVOGxJeVFqWmtwQlRYUnpSVUZ
 ss://YWVzLTI1Ni1nY206Y2NmNDI2ZjFmZTc4@103.103.245.158:443?plugin=v2ray-plugin;mode=websocket;mux=8;path=/zksuapgx;host=newroot2v1.dsjsapp.com;tls#%E9%A6%99%E6%B8%AF2%7C%40ripaojiedian\nvless://f61a4285-7264-4d07-9408-7b9ba1922c26@25.25.25.253:2096?path=%2FTelegram%20%40sinavm%2F%3Fed%3D2560&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@meli_proxyy
-ss://14eba471-4623-4ed1-b937-f5b2206749bf@91.99.168.213:443?mode=gun&security=reality&encryption=none&pbk=UrGT7bAn2UND3kx81QHACf_6qReN8V6_o70kZerONk4&fp=chrome&type=grpc&serviceName=🍫Telegram:v2ray_configs_v2c🍫&sni=miro.com&sid=1c547814#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Nuremberg🅿️ping:26.82ms
-ss://2129f7d2-8abc-44c7-b032-ba18fbbedb40@iran.book-learn61.sbs:54782?mode=auto&security=reality&encryption=none&extra={"scMaxEachPostBytes": 1000000, "scMaxConcurrentPosts": 100, "scMinPostsIntervalMs": 30, "xPaddingBytes": "100-1000", "noGRPCHeader": false}&pbk=zEdOxv5UToWEx3rWhmOJUEKf-pLxFzMsGpyX_YZid3A&host=bing.com&fp=chrome&spx=/---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=xhttp&sni=www.google.com&sid=a637d3cd6a0009c5#👉🆔@v2ray_configs_pool📡🇮🇷®️Iran©️Mashhad🅿️ping:92.77ms
-ss://48198295-b7ba-4b5c-8d85-085d55a6c869@69.84.182.234:443?security=tls&sni=xw.ylks.xyz&type=ws&path=/?proxyip#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Boca Raton🅿️ping:23.19ms
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206WFYrdW1jWkhSdVNwZnJpZ3JJYk9sb1JaWjdyTUZaVEFTb3NUN0ZyYnFDWT06QTd4QXpIS2FBSUxNZkllUXZYQWJJNnFRelQ1elFHU1A1V3Z4bFpsd1pRTT0=@xxx.90908585.ir:8080#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4MkhlbG9aM0xCQmJSdz06bFZXRDVqd0swWjJyN1NvZFBYNDFnaXViUGFEaTRJcmdrVGZRK2VqVWFGdz0=@adas-polo-ba-mahi.kotlet.org:2053#@HiByeVPNNBot 👈🌿💎
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4MkhlbG9aM0xCQmJSdz06bFZXRDVqd0swWjJyN1NvZFBYNDFnaXViUGFEaTRJcmdrVGZRK2VqVWFGdz0=@adas-polo-ba-mahi.kotlet.org:2053#🇬🇧 @EXPRESSVPN_420
@@ -97,6 +94,7 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206VG1PK0tFZ3owTjNxQjZhZmRzT1NqaWpYVlRVeGtwaCt
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WXpJNU1tTXhZV1ptTmpOaU5HRTVOR0k1WVdRd1pqUTRZemM1TXpGa01qYz06Wm1abVptWm1abVptWm1GbU5EY3hOMkUxWWpBM09EazRNbU00TWpCak1ERT0=@77.221.154.173:45090#@sunflowerplato🌻
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WXpJNU1tTXhZV1ptTmpOaU5HRTVOR0k1WVdRd1pqUTRZemM1TXpGa01qYz06Wm1abVptWm1abVptWm1GbU5EY3hOMkUxWWpBM09EazRNbU00TWpCak1ERT0@77.221.154.173:45090#✅سرورهایبیشتردرکانال:prrofile_purple@✅
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206cFo0K1p1c2FnaG9rc0NVUjc1TDJUVlEwekZQdWdXd2dwdURweVh6eG1jYz06VC9BVXMvcHdNM0FkcXdYbG4wclAwWWlKdDdlcU0rZ0huVUFsVUpsUWFEQT0=@188.34.194.165:80#@daredevill_404
+ss://TELEGRAM-CONFiGLiNE-71@151.101.0.0:80?mode=auto&path=/telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE,telegram-CONFiGLiNE?ed=2048&security=none&encryption=none&host=azaiji3.global.ssl.fastly.net&type=xhttp#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Montreal🅿️ping:21.35ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MlF1Wjg5aWFaUUVsWUt5MWJEeU9W@77.246.107.222:443#@V2rayNGVPN <= کانفیگ رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MlF1Wjg5aWFaUUVsWUt5MWJEeU9W@77.246.107.222:443#@V2rayNGVPN+<=+کانفیگ+رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MlF1Wjg5aWFaUUVsWUt5MWJEeU9W@77.246.107.222:443#کانال تلگرامی : @Skypro_vpn
@@ -123,7 +121,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.100.248:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#https://t.me/v2raynplus
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.151:48172#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MXlsb1FDOEQ5dzFXYWU3Rkh0STY1@4.223.106.240:48172#@vmesskhodam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VHMyWkRUUUFmM2hrRm9COEFGdWZEd3NHcmxGNGUydA@45.15.126.19:443#👉🆔@v2ray_configs_pool📡🇵🇱®️Poland©️Warsaw🅿️ping:43.58ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aFZvd2pjYzgycDZOdTlVdk9YaGhG@39.104.68.204:8443#🇨🇳1@vpnserverrr
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTQyZDdjNS1mYjc2LTRjOWMtOWI5MC1iYTBjMzI1YWVjNGQ@huojian1.vn9987.top:51004#🇺🇸[openproxylist.com] ss-US
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDFrV3FlODFQcDhZVHNYeHRlcjZn@93.183.91.172:6462#1
@@ -147,7 +144,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:10
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#🇺🇸@skypro_vpn کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#🇺🇸@vpnserverrr کانال تلگرام
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?type=tcp#🇺🇸@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرام
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDc1NjAyMzA=@clr.ducks.tel:17844#@V2RAYROZ
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDc1NjAyMzA=@clr.ducks.tel:17844#@V2rayNGVPN+<=+کانفیگ+رایگان
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDc1NjAyMzA=@clr.ducks.tel:17844#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MDc1NjAyMzA=@clr.ducks.tel:17844#t.me/entryNET/config=1849708836344903
@@ -508,6 +504,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443?note=@freeOnlineVPN#🇮🇹 - IT - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVW1LS0FmZlhVVVhBR3F0cVJDMFY5@138.186.140.102:8443#V2rayNG3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUVW1LS0FmZlhVVVhBR3F0cVJDMFY5@138.186.140.102:8443#🇲🇽2@vpnserverrr
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZE5ZOWl0NVRDbU9OeVlZeFlNZkZh@45.95.232.236:4248#🏴‍☠️@FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZE5ZOWl0NVRDbU9OeVlZeFlNZkZh@45.95.232.236:4248#👉🆔@v2ray_configs_pool📡🇨🇭®️Switzerland©️Zurich🅿️ping:47.88ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZE5ZOWl0NVRDbU9OeVlZeFlNZkZh@45.95.232.236:4248?note=--Telegram--@NetifyVPN--#🇨🇭[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZE5ZOWl0NVRDbU9OeVlZeFlNZkZh@45.95.232.236:4248?note=@freeOnlineVPN#🇨🇭 - CH - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUeEZxdXRVOE5uYnJ6T09uTUNJZWtO@62.133.63.21:65262#All-@V2ray_Alpha--28
@@ -682,7 +680,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@45.87.175.197:8080#🇳🇱@𝗦𝗶𝗡𝗔𝗩𝗠 کانال تلگرامی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080?note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@tawaguard.xyz:8080#@HiByeVPNN❤️‍🔥💎✨
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsR2hRcHNNVXByY0hYS0NkbnlTR1Aw@194.87.216.218:52571#🇳🇱@FreakConfig
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsR2hRcHNNVXByY0hYS0NkbnlTR1Aw@194.87.216.218:52571?note=--Telegram--@NetifyVPN--#🇳🇱[Telegram:NetifyVpn]
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsR2hRcHNNVXByY0hYS0NkbnlTR1Aw@194.87.216.218:52571?note=--Telegram--@NetifyVPN--#👉🆔@v2ray_configs_pool📡🇳🇱®️The Netherlands©️Amsterdam🅿️ping:47.98ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsR2hRcHNNVXByY0hYS0NkbnlTR1Aw@194.87.216.218:52571?note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWE9WakVNc3gwMGplT1F6SHNRcmtM@213.176.16.71:4966#@IRAN_V2RAY1 🇳🇱
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsWE9WakVNc3gwMGplT1F6SHNRcmtM@213.176.16.71:4966#@meli_proxyy
@@ -696,6 +696,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#✅ @v2ray_configs_pools (تلگرام)
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.samanehha.co:443#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptcHMzRndtRGpMcldhT1Zn@series-a2.varzesh360.co:443#@V2rayNG3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUUZiVWVtWDVnaXNXTTlOclUwZHlY@62.133.63.21:65262#🇹🇷@FreakConfig
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUUZiVWVtWDVnaXNXTTlOclUwZHlY@62.133.63.21:65262#👉🆔@v2ray_configs_pool📡🇹🇷®️Turkey©️Istanbul🅿️ping:63.06ms
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuUUZiVWVtWDVnaXNXTTlOclUwZHlY@62.133.63.21:65262?note=--Telegram--@NetifyVPN--#🇹🇷[Telegram:NetifyVpn]
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuVEdCaEV0UWZ5dmhPeGlHMktEMkNr@94.103.89.223:44747#@HiByeVPNN❤️‍🔥💎✨
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMXpQNWF4SktMVjR6VXBXUDlMWDZE@154.205.147.68:8443#🇴🇲68@vpnserverrr
@@ -765,6 +767,8 @@ ss://YWVzLTI1Ni1nY206MWNjN2FkNWYtYzliYy00MTM4LTg0OWEtMDJhZWVjOGUzN2E3@141.94.115
 ss://YWVzLTI1Ni1nY206Mno5dGtYVktpS2RGT2RuRk1VRUR1R0lJOEtEM3p1cGFGZ2lHRG1RM2NJST0=@31.47.45.146:13130#@daredevill_404
 ss://YWVzLTI1Ni1nY206MzE3NjE4OTgtNjVhYi00ZWY0LTk1NmUtZGE3ZDk3OGViZTJl@172.236.150.129:8443?note=--Telegram--@NetifyVPN--#🇸🇬[Telegram:NetifyVpn]
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#🇬🇧[openproxylist.com] ss-GB
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#🇺🇸[openproxylist.com] ss-US
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Reston🅿️ping:109.13ms
 ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000?note=--Telegram--@NetifyVPN--#🇺🇸[Telegram:NetifyVpn]
 ss://YWVzLTI1Ni1nY206QUp0VjRWQ0xhVlFVS0dINGcxQURTeXF2ekNBMG1TcE40NmFuMTJaZUlLaHg@216.132.112.116:34958#@Geek_Spot
 ss://YWVzLTI1Ni1nY206QVliRkwzOWJuNEVmRFhmRGJ1ZWFtTg==@62.60.233.72:33155#@V2rayNG3
@@ -818,10 +822,7 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.157.40.6:8882#@daredevill_404
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@23.158.56.196:8882#@daredevill_404
 ss://YWVzLTI1Ni1nY206b2VoZXBlUFFQaGZtY1o3SUJEUWR0V1NUcmQ3bVNubWFrbytsM1hwOW5IQT0=@57.128.219.94:8443#All-@V2ray_Alpha--27
 ss://YWVzLTI1Ni1nY206d043bU1XN1dSdDUta1c1bVRzRDREQQ==@ss.sps1.sbs:20#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-ss://bf7e1009-1574-44f7-86df-6cbecd338477@172.66.44.150:443?path=/?ed=2048&security=tls&encryption=none&host=pardazeshvpn-tg18.pages.dev&fp=chrome&type=ws&sni=pardazeshvpn-tg18.pages.dev#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.82ms
 ss://eyJhZGQiOiI1Ny4xMjkuNjQuMjM4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYXBlbGxlbmcuY29tIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkNoYW5uZWwgaWQ6IEBTaGFkb3dQcm94eTY2IPCfh6nwn4eqIiwic2N5IjoiYXV0byIsInNuaSI6ImthcGVsbGVuZy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==#🌐𝐣𝐨𝐢𝐍-@𝐅𝐑𝐄𝐄𝐕𝟐𝐑𝐍𝐆
-ss://f61a4285-7264-4d07-9408-7b9ba1922c26@72.167.25.253:2096?path=/Telegramsecurity=tls&security=tls&encryption=none&host=gaosir.unfeeling.sbs&type=ws&sni=gaosir.unfeeling.sbs#👉🆔@v2ray_configs_pool📡🇺🇸®️United States©️Tempe (South Tempe)🅿️ping:21.74ms
-ss://fe7fa45f-4c54-4d93-bf00-609648d8b786@172.66.40.99:8080/?path=/@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy----@Shh_Proxy&security=none&encryption=none&host=inFo.laLezaRanegomaNandish.onlineshopbb.org.&type=ws#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:21.72ms
 ssr://MTE2LjE2Mi4xMjAuMjQ6NTYyOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRldDhKK0hzRjlJUzEvcHBwbm11Szg9ssr://MTE2LjE2Mi4xMjAuNDk6NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRldDhKK0hzRjlJUzEvcHBwbm11Szg9trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BDtrojan://origin@content-provider12.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
 ssr://MTE2LjE2Mi4xMjAuMjQ6NTYyOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRldDhKK0hzRjlJUzEvcHBwbm11Szg9ssr://MTE2LjE2Mi4xMjAuNDk6NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRldDhKK0hzRjlJUzEvcHBwbm11Szg9trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BDtrojan://origin@content-provider12.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
 ssr://c2ctYW0zLmVxc3Vuc2hpbmUuY29tOjMyMDAxOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6TTJjd1pFaHNTMDFGLz9ncm91cD1hSFIwY0hNNkx5OTJNbkpoZVhObExtTnZiUT09JnJlbWFya3M9OEorSHVQQ2ZoNnhmVTBkZjVwYXc1WXFnNVoyaA==ssr://MTE2LjE2Mi4xMjAuNjA6NTYxOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTk=ssr://MTE2LjE2Mi4xMjAuMzE6NTYyOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRldDhKK0hzRjlJUzEvcHBwbm11Szg9trojan://origin@content-provider12.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
