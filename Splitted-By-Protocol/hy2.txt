@@ -1,10 +1,3 @@
-hy2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp5.dexlos.com:443/?mport=9000-10000&insecure=1&sni=jp5.dexlos.com#🇯🇵c@oneclickvpnkeys
-hy2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp6.dexlos.com:443/?mport=11000-12000&insecure=1&sni=jp6.dexlos.com#🇯🇵a@oneclickvpnkeys
-hy2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp7.dexlos.com:443/?mport=13000-14000&insecure=1&sni=jp7.dexlos.com#🇯🇵e@oneclickvpnkeys
-hy2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp8.dexlos.com:443/?mport=15000-16000&insecure=1&sni=jp8.dexlos.com#🇯🇵f@oneclickvpnkeys
-hy2://14FD150A-579E-42A1-8212-9D2F6510A70C@jp9.dexlos.com:443/?mport=17000-18000&insecure=1&sni=jp9.dexlos.com#🇯🇵d@oneclickvpnkeys
-hy2://14FD150A-579E-42A1-8212-9D2F6510A70C@us7.dexlos.com:443/?mport=13000-14000&insecure=1&sni=us7.dexlos.com#🇺🇸a@oneclickvpnkeys
-hy2://2408982813-20241210:409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000/#⚒️4@oneclickvpnkeys
 hy2://2408982813-20241210:409046c1-c229-4b54-986c-f110d96278e1@genshin-v4-oracle-amd.damaoooo.com:40000/#⚱️17@oneclickvpnkeys
 hy2://2b195c17-5ff5-4b0d-a809-210b92212394@chuncheon-2.nezhasu.com:443/?mport=50000-65535&sni=chuncheon-2.nezhasu.com#🔒92@oneclickvpnkeys
 hy2://2b195c17-5ff5-4b0d-a809-210b92212394@glby1.nezhasu.com:443/?mport=50000-65535&sni=glby1.nezhasu.com#🔒88@oneclickvpnkeys
@@ -16,8 +9,6 @@ hy2://2b195c17-5ff5-4b0d-a809-210b92212394@tokyo.nezhasu.com:443/?mport=50000-65
 hy2://2b195c17-5ff5-4b0d-a809-210b92212394@ylsl.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=ylsl.nezhasu.com#🎵49@oneclickvpnkeys
 hy2://2b195c17-5ff5-4b0d-a809-210b92212394@ylsl.nezhasu.com:443/?mport=50000-65535&sni=ylsl.nezhasu.com#🔒56@oneclickvpnkeys
 hy2://2cUfzeGOZG@91.99.225.11:443/?insecure=1&sni=refersion.com&obfs=salamander&obfs-password=Jsbdksj@V2RayyNGvpn$Miracle#⚱️14@oneclickvpnkeys
-hy2://312d3555-d7a3-4674-869a-0e5b7ee03a35@208.87.242.77:443/?mport=35000-39000&insecure=1&sni=www.apple.com#🇺🇸b@oneclickvpnkeys
-hy2://312d3555-d7a3-4674-869a-0e5b7ee03a35@208.87.242.97:443/?mport=35000-39000&insecure=1&sni=www.apple.com#🇺🇸c@oneclickvpnkeys
 hy2://4e6b2e02-a677-456e-b57e-eebeb68d6e0f@dg.jgpyjc.top:443/?mport=40000-40050&insecure=1&sni=dg.jgpyjc.top&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🌏26@oneclickvpnkeys
 hy2://52d0cb21-56da-4f00-862f-be01b66446a8@falankefu1.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=falankefu1.nezhasu.com#🎵1@oneclickvpnkeys
 hy2://52d0cb21-56da-4f00-862f-be01b66446a8@gy6.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=gy6.nezhasu.com#🎵70@oneclickvpnkeys
@@ -70,7 +61,12 @@ hy2://dongtaiwang.com@[2001:bc8:32d7:302::11]:20088/?insecure=1&sni=🔒#🌏58@
 hy2://e9bc7ffe-04fa-448c-813e-f3f730989d4c@5.180.30.16:52886/?insecure=1&sni=api.push.apple.com#⚒️9@oneclickvpnkeys
 hy2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@amsterdam.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=Amsterdam.nezhasu.com#🎵3@oneclickvpnkeys
 hy2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@ashburn.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=ashburn.nezhasu.com#🎵63@oneclickvpnkeys
+hy2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy5.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=gy5.nezhasu.com#🎵79@oneclickvpnkeys
+hy2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@gy9.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=gy9.nezhasu.com#🎵90@oneclickvpnkeys
 hy2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@lundun3.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=lundun3.nezhasu.com#🎵13@oneclickvpnkeys
+hy2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@phoenix-2.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=phoenix-2.nezhasu.com#🎵83@oneclickvpnkeys
+hy2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@phoenix-4.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=phoenix-4.nezhasu.com#🎵85@oneclickvpnkeys
+hy2://f62dcdd4-a8f8-440e-8cc7-f5bb2f762375@sanjose.nezhasu.com:443/?mport=50000-65535&insecure=1&sni=SanJose.nezhasu.com#🎵82@oneclickvpnkeys
 hy2://94931862-1484-11f0-9ab7-f23c95b6f51d@98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk:1743/?sni=98f4acfe-t4un40-tdini3-cdfn.la.shifen.uk#%253E%253E%2540ShadowsocksM%3A%3AUS
 hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%253E%253E%2540ShadowsocksM%3A%3AUS
 hy2://537d7098-fdbe-11ef-8ebc-f23c93141fad@14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk:1743/?sni=14ff4864-t4x400-tcjtj6-d70y.la.shifen.uk#%253E%253E%2540ShadowsocksM%3A%3AUS
