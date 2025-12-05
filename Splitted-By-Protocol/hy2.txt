@@ -136,3 +136,8 @@ hy2://f609abb4-ed17-11ee-9fa2-f23c9164ca5d@ae8369e2-t55r40-tei4of-1qxa1.us.hyhua
 hy2://f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b@c12ea253-t53wg0-t8jzg2-1hd7v.us.hyhuawei.com:443/?insecure=1&sni=c12ea253-t53wg0-t8jzg2-1hd7v.us.hyhuawei.com#🪝65@oneclickvpnkeys
 hy2://fac704ae-0304-11f0-a2ef-f23c91cfbbc9@d5966d14-t53wg0-tc67m2-1tjc4.us.hyhuawei.com:443/?insecure=1&sni=d5966d14-t53wg0-tc67m2-1tjc4.us.hyhuawei.com#🪝59@oneclickvpnkeys
 hy2://linux.do@[2a01:4f9:4b:f378::1]:13599/?insecure=1&sni=www.bing.com#🔵47@oneclickvpnkeys
+hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hy2://ae845cbd-08fb-4346-929a-e28a6f3960a8@hk1.shiyuandian.shop:24591/?insecure=1&sni=hk1.shiyuandian.shop#%3E%3E%40oneclickvpnkeys%3A%3AHK
+hy2://SNItest@46.243.232.105:443/?insecure=1&sni=raiffeisen.ru#%3E%3E%40oneclickvpnkeys%3A%3ARU
+hy2://SNItest@46.243.235.119:443/?insecure=1&sni=gazprombank.ru#%3E%3E%40oneclickvpnkeys%3A%3ARU\n//profile-title: base64:8J+RkSBAUmF5YW5fQ29uZmlnICDwn5GR
