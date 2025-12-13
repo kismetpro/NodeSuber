@@ -20,7 +20,6 @@ hy2://5OiuCsPmULZ0lJwts89fegLJE@47.129.100.149:17193/?insecure=1&sni=bing.com#SG
 hy2://5OiuCsPmULZ0lJwts89fegLJE@52.221.210.182:17193/?insecure=1&sni=bing.com#SG
 hy2://6857f1bc-f27b-11ea-87ad-f23c913c8d2b@aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com:443/?insecure=1&sni=aa563af0-t48f40-tgzvop-hns7.hk1.hyhuawei.com#⚛️74@oneclickvpnkeys
 hy2://6b7c1278-ff9d-11ee-84ca-f23c913c8d2b@12f7c432-t6t0g0-t87m8y-1pr35.hk1.hyhuawei.com:443/?insecure=1&sni=12f7c432-t6t0g0-t87m8y-1pr35.hk1.hyhuawei.com#⚛️90@oneclickvpnkeys
-hy2://71504eaf-29ac-4190-89d1-dd9ce2c9ee14@[2001:bc8:1640:50eb:dc00:ff:fe57:dd6f]:443/?mport=50000-60000&insecure=1&sni=Ab.ac&obfs=salamander&obfs-password=FnFgQIckcMRtKq7i#⚛️1@oneclickvpnkeys
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@cc1.mangshe.xyz:2056/?insecure=1&sni=cc1.mangshe.xyz#KR
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@lsj3.mangshe.xyz:2056/?insecure=1&sni=lsj3.mangshe.xyz#美国
 hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@mg1.mangshe.xyz:2056/?insecure=1&sni=mg1.mangshe.xyz#美国
@@ -32,7 +31,6 @@ hy2://78c2bad7-f5f3-41f2-88cc-81de9d05040b@xjp2.mangshe.xyz:2060/?insecure=1&sni
 hy2://7GEEGxAfgQaVPQX0PGk7lIuj3I@158.41.110.234:10820/?insecure=1&sni=bing.com#UK家宽
 hy2://7JnRmdeMP4gsvp0nXjYofBNvsdk@3.75.180.49:7414/?insecure=1&sni=bing.com#DE
 hy2://7f1744fb-e014-43e9-ab39-1dca96f5e604@104.238.220.106:443/?mport=50000-53000&insecure=1&sni=apps.apple.com#⚛️29@oneclickvpnkeys
-hy2://7f1744fb-e014-43e9-ab39-1dca96f5e604@5.180.30.16:443/?mport=50000-53000&insecure=1&sni=api.push.apple.com#⚛️6@oneclickvpnkeys
 hy2://84123645-b62d-4a3b-bd74-d58ea4023c65@hk2.jueduibupao.top:44507/?insecure=1&sni=hk2.jueduibupao.top#🇭🇰HK
 hy2://84123645-b62d-4a3b-bd74-d58ea4023c65@tw2.jueduibupao.top:30078/?insecure=1&sni=tw2.jueduibupao.top#🇹🇼TW
 hy2://89a62b16-a3c3-4ad7-be18-6f0266f7a2c5@jpjp.gzcloud.shop:443/?mport=10000-20000&insecure=1&sni=jpjp.gzcloud.shop&obfs=salamander&obfs-password=ZDQxZDhjZDk4ZjAwYjIwNA==#🇯🇵日本
@@ -46,15 +44,12 @@ hy2://@KevinZakarian@kevin.vpny.online:22002/?insecure=1&sni=kevin.vpny.online&o
 hy2://KYIFgW1don6L8TaDBJHynafxZ0@47.237.23.83:4763/?insecure=1&sni=bing.com#🇸🇬SG
 hy2://L60nS04NhsoMpN2DDGbnMqLP8DY@47.76.83.25:11243/?insecure=1&sni=bing.com#HK
 hy2://NjEkAYYNqFKUbrksyW1COBtdpU@47.239.220.214:2428/?insecure=1&sni=bing.com#HK
-hy2://SNItest@37.18.14.169:443/?insecure=1&sni=megafon.ru#⚛️17@oneclickvpnkeys
 hy2://SNItest@37.18.14.169:443/?insecure=1&sni=megafon.ru&note=@freeOnlineVPN#🇷🇺 - RU - @freeOnlineVPN
-hy2://SNItest@46.243.235.119:443/?insecure=1&sni=gazprombank.ru#⚛️13@oneclickvpnkeys
 hy2://SNItest@46.243.235.119:443/?insecure=1&sni=gazprombank.ru&note=@freeOnlineVPN#🇷🇺 - RU - @freeOnlineVPN
 hy2://XON4wZ0sXe1YaqFY2FeM7uZY4@122.248.205.111:15221/?insecure=1&sni=bing.com#SG
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#⚛️36@oneclickvpnkeys
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#⭕19@oneclickvpnkeys
 hy2://Yet-Another-Public-Config-1@206.71.158.37:35000/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
-hy2://Yet-Another-Public-Config-1@[2a14:3f87:f001:13::a]:36400/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#⚛️4@oneclickvpnkeys
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36300/?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#⚛️11@oneclickvpnkeys
 hy2://Yet-Another-Public-Config-1@yapc-1.adamhayward.co.uk:36600/?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#HY2
 hy2://a084933d-0b41-4571-ae0c-7163b8c71ed1@de.eyucdn.xyz:2056/?insecure=1&sni=de.eyucdn.xyz#DE
@@ -92,9 +87,10 @@ hy2://freehomesvpnmahsa3@donate1.mahsa.homes:16396/?insecure=1&sni=www.google.co
 hy2://peEduuHzbExjK7UQHzazXwqgA@166.88.164.9:27704/?insecure=1&sni=bing.com#US
 hy2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712/?insecure=1&sni=bing.com#JP
 hy2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789/?insecure=1&sni=bing.com#JP
-hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%3E%3E%40ShadowsocksM%3A%3AUS
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
+hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%3E%3E%40ShadowsocksM%3A%3AUS
 hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hy2://dongtaiwang.com@163.172.21.105:5355/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hy2://SNItest@37.18.14.169:443/?insecure=1&sni=megafon.ru#%3E%3E%40oneclickvpnkeys%3A%3AXX
 hy2://SNItest@46.243.235.119:443/?insecure=1&sni=gazprombank.ru#%3E%3E%40oneclickvpnkeys%3A%3ARU
 hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR\n//profile-title: base64:8J+RkSBAUmF5YW5fQ29uZmlnICDwn5GR
