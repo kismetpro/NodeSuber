@@ -1,3 +1,4 @@
+trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?sni=ads.x5.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B4NO_1%20%F0%9F%A7%AD%202.6MB%2Fs#کانفیگ_پرسرعت
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=diningtable.electricbanana.click#%40Filter_breaker
 trojan://trojan@ip.sb:8443?path=%2F&security=tls&insecure=1&host=fofang.pages.dev&type=ws&allowInsecure=1&sni=fofang.pages.dev#%40Filter_breaker
 trojan://BxceQaOe@219.78.209.224:443?allowInsecure=1&sni=t.me%2Fripaojiedian#_CN_%E4%B8%AD%E5%9B%BD
@@ -85,6 +86,7 @@ trojan://57ilz74461jfayyqbb83@194.59.250.52:58499/?type=tcp&security=tls&sni=ads
 trojan://57ilz74461jfayyqbb83@194.59.250.53:58499/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#t.me/entryNET/config=1851496863677845
 trojan://57ilz74461jfayyqbb83@194.59.250.53:58499/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅61@oneclickvpnkeys
 trojan://57ilz74461jfayyqbb83@194.59.250.54:58499/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅39@oneclickvpnkeys
+trojan://57ilz74461jfayyqbb83@194.59.250.54:58499?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#WiFi_12--@V2rayAlpha
 trojan://59a62e95-6262-4ba1-8027-c642b7c72713@green2.cdntencentmusic.com:31101/?type=tcp&security=tls&sni=green2.cdntencentmusic.com#🇭🇰 香港
 trojan://5a5d1112-4ae7-431f-bdde-0d008fb473dd@172.67.207.27:443?path=/685uFbiRrgAsHzTP8d&security=tls&alpn=http/1.1&host=90.taipei108.dpdns.org&fp=chrome&type=ws&sni=90.tAIpEI108.dpDnS.orG#@CaV2ray ⚡️
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990/?type=tcp&security=tls&sni=diningtable.electricbanana.click&allowInsecure=1&fp=chrome#t.me/entryNET/config=1851485538400584
@@ -101,15 +103,18 @@ trojan://90y2l3mu48d10uy3ibad@195.154.202.111:58290/?type=tcp&security=tls&sni=a
 trojan://90y2l3mu48d10uy3ibad@195.154.202.112:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅38@oneclickvpnkeys
 trojan://90y2l3mu48d10uy3ibad@195.154.202.25:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨64@oneclickvpnkeys
 trojan://90y2l3mu48d10uy3ibad@51.159.103.137:58290/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨75@oneclickvpnkeys
+trojan://90y2l3mu48d10uy3ibad@51.159.103.137:58290?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#WiFi_14--@V2rayAlpha
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls&headerType=none&fp=chrome&type=tcp&sni=207.148.100.75#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://9BbIGN.nF=gztO-iq7ETmxdJ@199.247.5.172:13448/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨15@oneclickvpnkeys
 trojan://9BbIGN.nF=gztO-iq7ETmxdJ@45.76.94.79:13448/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨8@oneclickvpnkeys
 trojan://9BbIGN.nF=gztO-iq7ETmxdJ@80.240.17.154:13448/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨20@oneclickvpnkeys
+trojan://9BbIGN.nF=gztO-iq7ETmxdJ@80.240.17.154:13448?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#All_2--@V2rayAlpha
 trojan://@Geek_Spot@176.97.210.2:12882/?type=tcp#🇺🇦 Ukraine 3
 trojan://Aimer@188.164.159.43:2083?path=/?ed?ed=2048@v2ray_configs_pools--@v2ray_configs_pools--@v2ray_configs_pools--@v2ray_configs_pools&security=tls&host=epgb.aimercc.dpdns.org&type=ws&sni=epgb.aimercc.dpdns.org#telegram 🍊 v2ray_configs_pools
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅52@oneclickvpnkeys
 trojan://BaeSzHdfJIR13l67@70.34.218.149:11930/?type=tcp&security=tls&sni=softpillow.silentrocket.click&allowInsecure=1#⚙️27@oneclickvpnkeys
 trojan://Bdj2W.Z0=UaM1IYzhO5TR76Jx@192.248.187.65:15505/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨23@oneclickvpnkeys
+trojan://Bdj2W.Z0=UaM1IYzhO5TR76Jx@192.248.187.65:15505?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#WiFi_11--@V2rayAlpha
 trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@104.238.188.249:25075/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨42@oneclickvpnkeys
 trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@108.61.123.140:25075/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨49@oneclickvpnkeys
 trojan://BmVsa+yhb-QwGYXD7t.LKPNnRMqeI@95.179.210.231:25075/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨31@oneclickvpnkeys
@@ -117,9 +122,11 @@ trojan://BxceQaOe@153.121.51.221:1821?security=tls&headerType=none&type=tcp&sni=
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
 trojan://BxceQaOe@58.152.26.173:443?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#@HiByeVPNN❤️‍🔥🏆💫
 trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅66@oneclickvpnkeys
-trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?sni=ads.x5.ru&allowInsecure=1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇳🇴NO_1 🧭 2.3MB/s
-trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?sni=ads.x5.ru&allowInsecure=1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇳🇴NO_1 🧭 3.1MB/s
+trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#WiFi_13--@V2rayAlpha
+trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?sni=ads.x5.ru&allowInsecure=1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇳🇴NO_1 🧭 2.4MB/s
+trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?sni=ads.x5.ru&allowInsecure=1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇳🇴NO_1 🧭 2.6MB/s
 trojan://E2hGw3bUIJidlFx#.O@159.69.125.188:21648/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅12@oneclickvpnkeys
+trojan://E2hGw3bUIJidlFx#.O@159.69.125.188:21648?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#WiFi_10--@V2rayAlpha
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&headerType=none&type=tcp&sni=kuame.missionsec.us#@v2ray1_Ng
 trojan://FR8IHksUYg@170.64.132.131:8080?security=none&headerType=http&type=tcp#All-@V2rayAlpha--42
 trojan://Fv7ogJ6vfz@209.200.246.53:36774?mode=gun&security=reality&authority=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&pbk=QX1ITiHw0tTKi5ouMn-6mE2-Hb0-gk25N67gP2sQ-nU&fp=chrome&type=grpc&sni=cloudflare.com&sid=3e#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆²
@@ -179,14 +186,10 @@ trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452/?type=tcp&security=tls&sni=www
 trojan://tRxkV-KcTuypP=8Yj6Bgd@70.34.220.34:25599/?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowInsecure=1#✅51@oneclickvpnkeys
 trojan://tRxkV-KcTuypP=8Yj6Bgd@70.34.223.29:25599/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅43@oneclickvpnkeys
 trojan://telegram-id-directvpn@35.180.72.13:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#⭕23@oneclickvpnkeys
-trojan://telegram-id-directvpn@63.176.121.99:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-directvpn@63.180.216.181:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@13.39.187.138:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1#⚙️16@oneclickvpnkeys
 trojan://telegram-id-privatevpns@3.64.254.128:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#t.me/entryNET/config=1851440869111099
 trojan://telegram-id-privatevpns@35.180.72.13:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#⭕37@oneclickvpnkeys
 trojan://telegram-id-privatevpns@35.181.161.100:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&allowInsecure=1#⭕27@oneclickvpnkeys
-trojan://telegram-id-privatevpns@63.176.121.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
-trojan://telegram-id-privatevpns@63.180.216.181:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇩🇪]t.me/ConfigsHub
 trojan://tgegXRzYrR@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-m2uv025p
 trojan://ttfang@5.182.85.194:2096?path=Telegram@Config_Rayegan&security=tls&host=ttfang.fange.me&fp=chrome&type=ws&sni=ttfang.fange.me#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
 trojan://tunnel-Astrovpn_official0284@188.208.110.58:8441?security=tls&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=188.208.110.58#[@AstroVPN_Official] 🇦🇪
@@ -223,6 +226,7 @@ trojan://tunnel-v2ray_configs_pools_official-us@us-3.stunnel.cc:8441?security=tl
 trojan://tunnel-v2ray_configs_pools_official-us@us-4.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=us-4.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇺🇸
 trojan://tunnel-v2ray_configs_pools_official_ae@ae-1.stunnel.cc:8441?security=tls&sni=zula.ir.v2ray_configs_pools-official.v2ray_configs_pools-official.workers.dev&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none&host=ae-1.stunnel.cc#[TrojanVPN] v2ray_configs_pools_official-🇦🇪
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@140.82.35.244:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨13@oneclickvpnkeys
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@140.82.35.244:20994?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#WiFi_9--@V2rayAlpha
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.153.36:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨26@oneclickvpnkeys
 trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@45.32.158.138:20994/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨7@oneclickvpnkeys
 trojan://ca2345ba-46e7-3991-b1b7-45d18954caf1@azgy001.xibai6.top:20790#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BDtrojan://182228812d1e0f23@60.249.3.229:3389#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BEtrojan://36fe28a331638747@60.249.3.226:3389#%F0%9F%87%B9%F0%9F%87%BC_TW_%E5%8F%B0%E6%B9%BEtrojan://origin@content-provider12.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
