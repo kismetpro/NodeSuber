@@ -1,4 +1,3 @@
-trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?sni=ads.x5.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%B3%F0%9F%87%B4NO_1%20%F0%9F%A7%AD%203.1MB%2Fs#کانفیگ_پرسرعت
 trojan://6pRjKQJ0CWyFtG.9@198.57.27.27:12990?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=diningtable.electricbanana.click#%40Filter_breaker
 trojan://trojan@ip.sb:8443?path=%2F&security=tls&insecure=1&host=fofang.pages.dev&type=ws&allowInsecure=1&sni=fofang.pages.dev#%40Filter_breaker
 trojan://BxceQaOe@219.78.209.224:443?allowInsecure=1&sni=t.me%2Fripaojiedian#_CN_%E4%B8%AD%E5%9B%BD
@@ -118,7 +117,6 @@ trojan://BxceQaOe@153.121.51.221:1821?security=tls&headerType=none&type=tcp&sni=
 trojan://BxceQaOe@58.152.26.173:443/?type=tcp&security=tls&allowInsecure=1#香港
 trojan://BxceQaOe@58.152.26.173:443?security=tls&headerType=none&type=tcp&sni=t.me/ripaojiedian#@HiByeVPNN❤️‍🔥🏆💫
 trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅66@oneclickvpnkeys
-trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?sni=ads.x5.ru&allowInsecure=1&fp=chrome#[🇳🇴]t.me/ConfigsHub
 trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?sni=ads.x5.ru&allowInsecure=1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇳🇴NO_1 🧭 2.3MB/s
 trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?sni=ads.x5.ru&allowInsecure=1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇳🇴NO_1 🧭 3.1MB/s
 trojan://E2hGw3bUIJidlFx#.O@159.69.125.188:21648/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅12@oneclickvpnkeys
@@ -157,7 +155,6 @@ trojan://blhwsknjxmfuydz0vhfv@146.70.73.212:53809/?type=tcp&security=tls&sni=www
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.213:53809/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅79@oneclickvpnkeys
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅80@oneclickvpnkeys
 trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=/xhttp&security=tls&alpn=h2&type=xhttp&sni=nl.xtls.sitespeedtest.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@188.114.97.3:443?path=/?ed=2560&security=tls&fp=chrome&type=ws&sni=red-dream-2d6c.xepis84786.workers.dev#@V2RAYROZ
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?path=/azadnet-bdr.pages.dev/?ed=2560&PROT_TYPE=trojan&security=tls&host=azadnet-bdr.pages.dev&type=ws&sni=azadnet-bdr.pages.dev#@Hddify
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:21102/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇭🇰 香港
 trojan://d446ca24-80b7-4e4a-8055-e23838e43705@cdnfire.xiaomispeed.com:23301/?type=tcp&security=tls&sni=cdnfire.xiaomispeed.com&allowInsecure=1#🇸🇬 新加坡
