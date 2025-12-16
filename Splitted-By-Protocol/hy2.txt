@@ -52,9 +52,7 @@ hy2://fWydUhyG3woKe4a0kcKKKdx78@8.219.232.60:6467/?insecure=1&sni=bing.com#SG
 hy2://peEduuHzbExjK7UQHzazXwqgA@166.88.164.9:27704/?insecure=1&sni=bing.com#US
 hy2://qq4Wc9UakExypzw4Jd00fWqrDTY@8.209.223.212:22712/?insecure=1&sni=bing.com#JP
 hy2://yD0mxkCA18WgPD1uVGd3Eu1dc@47.245.0.72:27789/?insecure=1&sni=bing.com#JP
-hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%3E%3E%40ShadowsocksM%3A%3AUS
 hy2://dongtaiwang.com@208.87.243.187:22222/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AUS
-hy2://dongtaiwang.com@51.159.111.32:5355/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
-hy2://dongtaiwang.com@163.172.21.105:5355/?insecure=1&sni=www.bing.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
+hy2://17cdeb6c-f046-11ee-bdac-f23c93141fad@c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk:1743/?sni=c37b0be5-t3kyo0-t3lvgh-2gok.la.shifen.uk#%3E%3E%40ShadowsocksM%3A%3AUS
 hy2://dongtaiwang.com@62.210.99.49:40088/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR
 hy2://dongtaiwang.com@195.154.206.231:33880/?insecure=1&sni=apple.com#%3E%3E%40oneclickvpnkeys%3A%3AFR\n//profile-title: base64:8J+RkSBAUmF5YW5fQ29uZmlnICDwn5GR
