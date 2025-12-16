@@ -77,7 +77,7 @@ trojan://iwangjie@158.101.11.204:15805?sni=nodes.830901.xyz#%F0%9F%87%BA%F0%9F%8
 trojan://e2722c0fb503f8a592436c12bce0509a@13.231.90.117:3169?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC5
 trojan://e2722c0fb503f8a592436c12bce0509a@160.16.196.59:1507?sni=www.nintendogames.net#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13%203.9MB%2Fs
 trojan://ab47264dad8b0fbe@51aa8f7.p5.glados-config.net:443?sni=n2.gladns.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD24
-trojan://de24be07de746f4f@3348107.hd.glados-config.net:443?sni=n2.gladns.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD25\nvmess://eyJhZGQiOiIxNTguNTEuMTIxLjYzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJzZXJpYnVzLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh6jwn4emQEZyZWFrQ29uZmlnIiwic2N5IjoiYXV0byIsInNuaSI6InNlcmlidXMub3JnIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
+trojan://de24be07de746f4f@3348107.hd.glados-config.net:443?sni=n2.gladns.com#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD25\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@62.100.205.100:990#[
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=runningshoes.purpletornado.click#[🇵🇱]t.me/ConfigsHub
 trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=runningshoes.purpletornado.click#t.me/entryNET/config=1851679321586721
