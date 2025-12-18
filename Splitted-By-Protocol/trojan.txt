@@ -50,7 +50,6 @@ trojan://123456@bpbg.anguswen.top:443?sni=Bpbg.ANGuswen.top#%F0%9F%87%B3%F0%9F%8
 trojan://BxceQaOe@219.78.209.224:443?sni=t.me/ripaojiedian#%F0%9F%87%A8%F0%9F%87%B3CN%E4%B8%AD%E5%9B%BD3
 trojan://BxceQaOe@43.199.204.139:4569?sni=t.me/ripaojiedian#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD13\nss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.237.185.89:990?note=Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---Telegram---%40Raiv2mmr---#[
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
-trojan://.+QAJot50sDi6mvb@5.188.108.13:11790?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=runningshoes.purpletornado.click#[🇵🇱]t.me/ConfigsHub
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
 trojan://1640ef52-2db0-44ab-b3f3-8690b762ebc9@165.154.112.107:12000/?type=tcp&security=tls&sni=aliyun.com&allowInsecure=1#🇭🇰 HK
 trojan://19f8e29a-3f0b-448c-92e8-ae035ea5f9ba@45.159.251.8:81?path=/Free-VPN-CF-Geo-Project/45.159.251.8=81&security=tls&host=joss.dus.biz.id&type=ws&sni=joss.dus.biz.id#MCI-IR--@V2rayAlpha-18
@@ -127,13 +126,12 @@ trojan://Iisy37ABxOJ8Ha_cb5fpXKkm-WSFV@108.61.175.83:24293/?type=tcp&security=tl
 trojan://Iisy37ABxOJ8Ha_cb5fpXKkm-WSFV@209.250.224.246:24293/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅22@oneclickvpnkeys
 trojan://LxJCPOP40a@206.206.77.237:51469?mode=gun&security=reality&pbk=nlxKGGnvTUULdJlG1vfRbiG9IFrbFYC9VMnMWNH_A3s&fp=chrome&type=grpc&sni=cloudflare.com&sid=793dfc59cf7edf#All-@V2rayAlpha--41
 trojan://M2M4M2E0Rma3OA==@46.38.151.36:50187?path=/p/uk/1/t/w/3g7fwj6&security=none&host=pressure-calm-new.nic.ir&type=ws#🇮🇷TM (@AZARBAYJAB1)50گیگ اختصاصی کانال
-trojan://M2M4M2E0Rma3OA==@46.38.151.36:50187?path=/p/uk/1/t/w/3g7fwj6&security=none&host=pressure-calm-new.nic.ir&type=ws&note=@freeOnlineVPN#🇬🇧 - GB - @freeOnlineVPN
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅19@oneclickvpnkeys
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1#🧢15@oneclickvpnkeys
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051/?type=tcp&security=tls&sni=api.avito.ru&allowInsecure=1&note=@freeOnlineVPN#🇮🇹 - IT - @freeOnlineVPN
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#[🇮🇹]t.me/ConfigsHub
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇮🇹IT_1 🧭 4.5MB/s
-trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇮🇹IT_2 🧭 4.3MB/s
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?security=tls&insecure=1&headerType=&fp=chrome&type=tcp&allowInsecure=1&sni=api.avito.ru&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇮🇹]t.me/Raiv2mmr
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇮🇹IT_1 🧭 4.7MB/s
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇮🇹IT_2 🧭 4.7MB/s
 trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome&note=@freeOnlineVPN#🇮🇹 - IT - @freeOnlineVPN
 trojan://OsIAlYkky0@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-h65ly4g0
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#%telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
@@ -148,20 +146,13 @@ trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJw
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#@FarazV2ray
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir#r♡ya
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
-trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir&note=@freeOnlineVPN#🇮🇪 - IE - @freeOnlineVPN
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&fp=chrome&type=ws&sni=reDfRee8.REDFree8.ir&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
-trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=reDfRee8.REDFree8.ir#[🇨🇦]t.me/ConfigsHub
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=reDfRee8.REDFree8.ir&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 trojan://POORIARED@172.67.134.185:443?path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=reDfRee8.REDFree8.ir&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#[🇩🇪]t.me/Raiv2mmr
 trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&allowInsecure=1&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#t.me/v2Line | Free | 3182 | Cloudflare
 trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&allowInsecure=1&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
-trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&allowInsecure=1&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&note=@freeOnlineVPN#🇮🇪 - IE - @freeOnlineVPN
 trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed#@Daily_Configs
-trojan://POORIARED@172.67.134.185:443?security=tls&sni=reDfRee8.REDFree8.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
-trojan://POORIARED@172.67.134.185:443?sni=reDfRee8.REDFree8.ir&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&fp=chrome#[🇨🇦]t.me/ConfigsHub
-trojan://POORIARED@172.67.134.185:443?sni=reDfRee8.REDFree8.ir&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_2 🧭 4.8MB/s
 trojan://POORIARED@172.67.134.185:443?sni=reDfRee8.REDFree8.ir&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&fp=chrome&note=@freeOnlineVPN#🇩🇪 - DE - @freeOnlineVPN
-trojan://POORIARED@172.67.134.185:443?sni=reDfRee8.REDFree8.ir&type=ws&path=/eyJqdW5rIjoiVUl6eXhLZkkwUTJ3ZzkiLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&fp=chrome&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 trojan://PavClLIvFd@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-bq9n8ql8
 trojan://RBjgSOjBvC@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-hdrit7zr
 trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅98@oneclickvpnkeys
@@ -188,13 +179,14 @@ trojan://bMJKkQZ1xHhlBjVo_wSiPUmCGRvEn@216.238.79.82:25121/?type=tcp&security=tl
 trojan://baVlPf-s1zH.ygXwtMdDu@38.110.1.153:26706/?type=tcp&security=tls&sni=web.max.ru&allowInsecure=1#🧢70@oneclickvpnkeys
 trojan://baVlPf-s1zH.ygXwtMdDu@38.110.1.201:26706/?type=tcp&security=tls&sni=static.rutube.ru&allowInsecure=1#🧢71@oneclickvpnkeys
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.210:53809/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅96@oneclickvpnkeys
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809/?type=tcp&security=tls&sni=web.max.ru&allowInsecure=1#🎨15@oneclickvpnkeys
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅89@oneclickvpnkeys
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.212:53809/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅75@oneclickvpnkeys
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.213:53809/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅79@oneclickvpnkeys
 trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅80@oneclickvpnkeys
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#🎨17@oneclickvpnkeys
 trojan://c16a577c-1dbd-41b0-90c7-d7177ce0bd1f@194.147.33.207:443?mode=auto&path=/xhttp&security=tls&alpn=h2&type=xhttp&sni=nl.xtls.sitespeedtest.net#💎کانفیگ های بیشتر در چنل تلگرام💎 Config_Rayegan@
-trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@www.speedtest.net:443?sni=red-dream-2d6c.xepis84786.workers.dev&type=ws&path=/?ed=2560&alpn=h2,http/1.1&fp=chrome#[🇨🇦]t.me/ConfigsHub
-trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@www.speedtest.net:443?sni=red-dream-2d6c.xepis84786.workers.dev&type=ws&path=/?ed=2560&alpn=h2,http/1.1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_3 🧭 4.8MB/s
+trojan://cf142ac0-4bae-4c4b-9882-21fc0550a661@www.speedtest.net:443?sni=red-dream-2d6c.xepis84786.workers.dev&type=ws&path=/?ed=2560&alpn=h2,http/1.1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇩🇪DE_4 🧭 4.9MB/s
 trojan://cwCv14UD6o-XbGm7NKjHWPJ819FL@155.138.222.121:29014/?type=tcp&security=tls&sni=web.max.ru&allowInsecure=1#🧢68@oneclickvpnkeys
 trojan://cwCv14UD6o-XbGm7NKjHWPJ819FL@45.32.220.19:29014/?type=tcp&security=tls&sni=vk.com&allowInsecure=1#🧢58@oneclickvpnkeys
 trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.25.254.4:2087?path=/azadnet-bdr.pages.dev/?ed=2560&PROT_TYPE=trojan&security=tls&host=azadnet-bdr.pages.dev&type=ws&sni=azadnet-bdr.pages.dev#@Hddify
@@ -208,11 +200,9 @@ trojan://fHngvzC1ut#YqsV4X@212.193.18.121:21936/?type=tcp&security=tls&sni=ya.ru
 trojan://fapgdGnC=-b#6BEwUSNsI@70.34.221.95:29730/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅36@oneclickvpnkeys
 trojan://fapgdGnC=-b#6BEwUSNsI@70.34.223.58:29730/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅65@oneclickvpnkeys
 trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#🚨3@oneclickvpnkeys
-trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#All-@V2rayAlpha--4
 trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#🇳🇱@FreakConfig
 trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670?security=tls&sni=ads.x5.ru&fp=chrome&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 3214 | The Netherlands
-trojan://fri4wn77p7urww5on3bt@185.212.171.204:58670?sni=ads.x5.ru&allowInsecure=1&fp=chrome&note=@freeOnlineVPN#🇳🇱 - NL - @freeOnlineVPN
 trojan://gDhwWvdNLQqr+V4SYMO.G02zXm8jB@38.60.215.19:21534/?type=tcp&security=tls&sni=st.ozone.ru&allowInsecure=1#🧢26@oneclickvpnkeys
 trojan://iCfh96DEJn3=QRbzF.Tdl@212.192.214.46:18069/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#🔷16@oneclickvpnkeys
 trojan://iwHDQcVXz-U11Ndl25CAveL@213.111.130.30:15145/?type=tcp&security=tls&sni=vk.com&allowInsecure=1#🧢59@oneclickvpnkeys
@@ -239,13 +229,14 @@ trojan://redfree8@104.17.148.22:80?path=/trLwW5jwrnymnOdqki?ed=2560&security=non
 trojan://rpq9Od8Bj7@91.107.179.207:1223?security=reality&pbk=VtJ9rMo1lo9v2jHH1d8A83uErJDBE4T6Cyd1sLfPxzo&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=4b2cd56a#All-@V2rayAlpha--9
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.194:57452/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅85@oneclickvpnkeys
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452/?type=tcp&security=tls&sni=api-yandex.maps.ru&allowInsecure=1#🧢16@oneclickvpnkeys
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?allowInsecure=1&sni=api-yandex.maps.ru&note=@freeOnlineVPN#🇮🇪 - IE - @freeOnlineVPN
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?sni=api-yandex.maps.ru&allowInsecure=1&fp=chrome#[🇮🇪]t.me/ConfigsHub
+trojan://t1k169n5zmvvwn96r9ft@146.70.90.195:57452?sni=api-yandex.maps.ru&allowInsecure=1&fp=chrome#👉🆔 @v2ray_configs_pool 📡 🇮🇪IE_1 🧭 5.2MB/s
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.197:57452/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅90@oneclickvpnkeys
 trojan://t1k169n5zmvvwn96r9ft@146.70.90.198:57452/?type=tcp&security=tls&sni=www.vk.com&allowInsecure=1#✅82@oneclickvpnkeys
 trojan://tRxkV-KcTuypP=8Yj6Bgd@70.34.220.34:25599/?type=tcp&security=tls&sni=cryptographiccupcake.silentrocket.click&allowInsecure=1#✅51@oneclickvpnkeys
 trojan://tRxkV-KcTuypP=8Yj6Bgd@70.34.223.29:25599/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#✅43@oneclickvpnkeys
-trojan://telegram-id-directvpn@52.47.101.121:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇫🇷]t.me/ConfigsHub
 trojan://telegram-id-privatevpns@51.44.135.124:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 3218 | France
-trojan://telegram-id-privatevpns@54.75.244.134:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#[🇮🇪]t.me/ConfigsHub
 trojan://tgegXRzYrR@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&sni=C.1lagvpn13.cfd#@L_AGVPN13+trojan-m2uv025p
 trojan://trojan@109.234.211.66:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#🔥Join Telegram:@AZARBAYJAB1🟣
 trojan://trojan@22b.net:2087?path=/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)&security=tls&type=ws&sni=store.timimi.dpdns.org#Telegram:@AZARBAYJAB1
