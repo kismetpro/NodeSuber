@@ -349,9 +349,8 @@ trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.144.208:3901?security=tls&sni=w
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@160.16.153.13:3901?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-160.16.153.13-0465
 trojan://f36f4495b4b26cc2fe346cfa23e05b1b@202.181.103.235:4054?security=tls&sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP-202.181.103.235-0370
 trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042/?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click&allowInsecure=1#%F0%9F%8E%811%40oneclickvpnkeys
-trojan://13e71ddb-908c-45e0-993c-da482d848c88@seashell.qzz.io:443/?type=ws&host=seashell.qzz.io&path=%2F156.254.114.120%3A30011&security=tls&sni=seashell.qzz.io&allowInsecure=1#%F0%9F%8E%A723%40oneclickvpnkeys
-trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443/?type=ws&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602&security=tls&sni=blueivy.qzz.io&allowInsecure=1#%F0%9F%8E%A720%40oneclickvpnkeys
 trojan://e2e3b171-33a8-4c8f-9e5f-ae6e92299e40@ivory.qzz.io:443/?type=ws&host=ivory.qzz.io&path=%2F46.232.122.240%3A8000&security=tls&sni=ivory.qzz.io&allowInsecure=1#%F0%9F%8E%A725%40oneclickvpnkeys
+trojan://da943f80-91e6-46df-b7ba-c6ecf28e0171@blueivy.qzz.io:443/?type=ws&host=blueivy.qzz.io&path=%2F192.252.182.52%3A7602&security=tls&sni=blueivy.qzz.io&allowInsecure=1#%F0%9F%8E%A720%40oneclickvpnkeys
 trojan://3d24de45-e38a-49c2-a963-ba8271c62d2b@tronblue.qzz.io:443/?type=ws&host=tronblue.qzz.io&path=%2F152.32.255.24%3A587&security=tls&sni=tronblue.qzz.io&allowInsecure=1#%F0%9F%8E%A724%40oneclickvpnkeys
 trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?security=tls&sni=bisque.qzz.io&type=ws&path=%2F66.135.4.222%3A8443&Host=bisque.qzz.io#%5BOpenRay%5D%20Dynamic-8625
 trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443/?type=ws&host=bisque.qzz.io&path=/66.135.4.222:8443&security=tls&sni=bisque.qzz.io&allowInsecure=1#%5BOpenRay%5D%20Dynamic-8495
@@ -361,4 +360,3 @@ trojan://e86364fb-a5e3-42c3-b7fa-6ce8097fe19f@bisque.qzz.io:443?path=%2F66.135.4
 trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042/?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#%F0%9F%9F%A971%40oneclickvpnkeys
 trojan://f52d0a04-94ad-4f9e-9945-4c3d43374e36@www.shopify.com:2096/?type=ws&host=ts888.yumige.dpdns.org&path=%2Fhttp%3A%2F%2F45.32.19.198%3A30005%2F&security=tls&sni=ts888.yumige.dpdns.org&alpn=h3&allowInsecure=1&fp=edge#کانفیگ
 trojan://yUHNMwWvenoHBaN5CtqKPwt1CTzXgW@ru2.nnvpn.io:443?security=tls&alpn=h2%2Chttp%2F1.1&headerType=none&fp=chrome&type=tcp&sni=ru2.nnvpn.io#%F0%9F%87%B7%F0%9F%87%BA%7C%E2%80%A2%40confegraian`
-trojan://f36f4495b4b26cc2fe346cfa23e05b1b@58.152.18.226:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.net#free%20vpn%20%F0%9F%86%93%20%7C%7C%20%40Kourosh_grn
