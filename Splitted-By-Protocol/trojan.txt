@@ -74,6 +74,7 @@ trojan://BxceQaOe@52.195.185.240:2053?sni=t.me%2Fripaojiedian#%F0%9F%87%AF%F0%9F
 trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:5076?sni=www.nintendogames.net#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD12
 trojan://4843e94d205f3893f588255a591abe94@160.16.87.174:1933?sni=www.nintendogames.net#%F0%9F%87%AF%F0%9F%87%B5JP%E6%97%A5%E6%9C%AC4%204.9MB%2Fs
 trojan://30077070-596e-48ea-9400-14c8ed07bd97@tuntro000.instconn.com:443?sni=hkip5.686911.xyz#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF6%2074.1KB%2Fs
+trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&security=tls&allowInsecure=1#%E2%9C%8598%40oneclickvpnkeys\nvless://b4a29ec1-5569-4ff3-aca2-8183e26fbfe2@104.18.26.90:2096?path=%2Frsjcbpws&security=tls&encryption=none&host=638874929583359846.zagreb-prx-dnraaad.info&type=ws&sni=638874929583359846.zagreb-prx-dnraaad.info#@meli_proxyy
 trojan://7367d04e-4c59-4dff-a50e-12e730a09891@155.117.228.70:26193?security=tls&headerType=none&type=tcp#%40Daily_Configs
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
 trojan://09553aee-5191-4870-a312-51d053ea668b@103.173.255.21:443?allowInsecure=1&sni=download.windowsupdate1.com#[82975] - Telegram : @V2All
