@@ -170,5 +170,6 @@ trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420/?type=tcp&security=tls&sni=
 trojan://xtA6WF92Itmhm9jfvXUH1MDVL@free-de-3.undef.network:443/?type=tcp&security=tls&sni=free-de-3.undef.network&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ADE
 trojan://fEDTdp8Sy1@95.85.76.136:56810?security=tls&sni=tr1.digisport.shop#%F0%9F%87%B9%F0%9F%87%B7TR-95.85.76.136-0013
 trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#%40Kia_Net%20%F0%9F%A4%A5
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#%E2%98%84%EF%B8%8F%40netshekan99%20%7C%20%D9%85%D9%84%DB%8C%20%D8%B4%DA%A9%D9%86%2028%20%D8%AF%DB%8C%20%E2%98%84%EF%B8%8F`
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#⚡Telegram
+trojan://de57fef4-a939-44b3-9bce-f7e9fb12347a@Chatgpt.com:443?path=%2F130.162.193.183%3A15401&security=tls&insecure=1&host=source.zoom.us.heavenlyblue.qzz.io&type=ws&allowInsecure=1&sni=source.zoom.us.heavenlyblue.qzz.io#%E2%9B%84%20%40ProxyVPN11%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C`
+trojan://de57fef4-a939-44b3-9bce-f7e9fb12347a@cdn.halazzon.ir:443?path=%2F175.45.183.67%3A443&security=tls&insecure=1&host=source.zoom.us.heavenlyblue.qzz.io&type=ws&allowInsecure=1&sni=source.zoom.us.heavenlyblue.qzz.io#%F0%9F%90%9D%20%40ProxyVPN11%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C`
