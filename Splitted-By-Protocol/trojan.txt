@@ -39,7 +39,7 @@ trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?security=tls&typ
 trojan://BxceQaOe@16.162.252.227:2673?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://BxceQaOe@54.238.101.170:2266?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF6
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@store.ubi.com:443?security=tls&type=ws&sni=_acme-challenge.2go.cloudns.be&path=/?ed#%E6%9C%AA%E7%9F%A515
-trojan://zWFjJENcljZm@usa.visa.com:443?security=tls&type=ws&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A519\nxÝ²ÄaÏ_3ðN¸±»9Þ
+trojan://zWFjJENcljZm@usa.visa.com:443?security=tls&type=ws&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A519\nvless://49b8d2a1-b44f-4f0f-909d-28ea0f5c1f48@5.255.121.39:8009?security=reality&encryption=none&pbk=lQbgwNDYw6Zbjdim0JtXUarzb-3GSjDvtX6FJYZD9Qo&headerType=none&fp=firefox&type=tcp&sni=refersion.com#%E2%9C%85%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%D8%AF%D8%B1%DA%A9%D8%A7%D9%86%D8%A7%D9%84%3Aprrofile_purple%40%E2%9C%85
 trojan://TurbooServer@cdn1.turbooserver.com:80?path=%2Fed&security=none&host=turboo-server.online&type=ws#@lrnbymaa
 trojan://humanity@104.18.32.47:443?allowInsecure=0&fp=chrome&host=www.multiplydose.com&insecure=0&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#%40V2raysCollector%20%F0%9F%A7%BF
 trojan://TurbooServer@cdn.turbooserver.com:80?path=%2Fed%3D25&security=none&host=jone-turboo-server.com&type=ws#lrnbymaa
