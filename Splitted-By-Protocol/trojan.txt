@@ -72,7 +72,7 @@ trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@cf.090227.xyz:443?security=tls&typ
 trojan://BxceQaOe@16.162.252.227:2673?sni=t.me%2Fripaojiedian#%F0%9F%87%B8%F0%9F%87%ACSG%E6%96%B0%E5%8A%A0%E5%9D%A13
 trojan://BxceQaOe@54.238.101.170:2266?sni=t.me/ripaojiedian#%F0%9F%87%AD%F0%9F%87%B0HK%E9%A6%99%E6%B8%AF6
 trojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@store.ubi.com:443?security=tls&type=ws&sni=_acme-challenge.2go.cloudns.be&path=/?ed#%E6%9C%AA%E7%9F%A515
-trojan://zWFjJENcljZm@usa.visa.com:443?security=tls&type=ws&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A519\nxÝ²ÄaÏ_3ðN¸±-í¸ç%gÍÛjÄ%'BE¢ArA8Ð
+trojan://zWFjJENcljZm@usa.visa.com:443?security=tls&type=ws&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&path=/?ed=2560#%E6%9C%AA%E7%9F%A519\nvless://cb33f36c-b531-4318-9be3-568e8d6c56c7@149.115.110.173:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=miui.com&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw#t.me%2FV2raysCollector%20%20%2B%20xt
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.81.84:5076?security=tls&sni=www.nintendogames.net&path=%2f#%40V2raysCollector%20%F0%9F%9A%80
 trojan://869e9086806483ca4744a4cb0f3d6e16@160.16.106.99:544?sni=www.nintendogames.net&path=%2f#%40V2raysCollector%20%E2%9D%A4%EF%B8%8F
 trojan://TurbooServer@cdn1.turbooserver.com:80?path=%2Fed&security=none&host=turboo-server.online&type=ws#@lrnbymaa
@@ -81,9 +81,7 @@ trojan://humanity@104.18.32.47:443?allowInsecure=0&fp=chrome&host=www.multiplydo
 trojan://TurbooServer@cdn.turbooserver.com:80?path=%2Fed%3D25&security=none&host=jone-turboo-server.com&type=ws#lrnbymaa
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#%40vpnbaz%20%7C%20%D9%86%D8%AA%20%D9%85%D9%84%DB%8C
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line
-trojan://a5inYFE=JGV89+hjxIqgDp1tcWBd6@80.173.230.196:26279?security=tls&headerType=none&fp=chrome&type=tcp&sni=io.ozone.ru#[
 trojan://cTv.9PDdCt-wybBrG1qlxI5UJuaEj@167.17.185.228:10889?security=tls&sni=web.max&allowInsecure=1&type=tcp&headerType=none#t.me/v2Line | Free | 3236 | Iceland
-trojan://RPyW62_b9aH.ztJKeArou@83.143.87.9:18581/?type=tcp&security=tls&allowInsecure=1#%E2%9C%8598%40oneclickvpnkeys
 trojan://Szb%3D-Zguo53QhmivcJqEAWtpdPX6Y@45.63.40.126:13345/?type=tcp&security=tls&sni=ads.x5.ru&allowInsecure=1#%F0%9F%9A%A82%40oneclickvpnkeys
 trojan://019a8c1f-3d28-74e8-8a8e-40045d7ec77f@38.207.160.35:443/?type=tcp&security=tls&sni=www.bilibili.com&allowInsecure=1#🇭🇰 HK
 trojan://09553aee-5191-4870-a312-51d053ea668b@103.173.255.21:443?allowInsecure=1&sni=download.windowsupdate1.com#[82975] - Telegram : @V2All
