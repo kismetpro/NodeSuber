@@ -27,59 +27,51 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#The+Netherlands
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.10:8080#@meli_proxyy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@45.87.175.22:8080#@meli_proxyy
+ss://4525c260-df3c-4f62-b8f1-f4f5f305694b@66.81.247.155:443?path=/?ed=2560&security=tls&encryption=none&host=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net&fp=chrome&type=ws&sni=yyzsuabw9e3qd5ud7ihi5dxm96oglnsvr83cjojnm1efncfhr9ucordq.zjde5.de5.net#@filembad
+ss://6a5d1316-c0a6-4963-8ee1-e8b9b5f98c20@188.114.98.0:8443?path=/45.76.183.217&security=tls&encryption=none&host=delta090.qzz.io&type=ws&sni=delta090.qzz.io#@filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NDkxOGJjODAxZDUzYTRi@57.130.28.148:11201#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆⁵
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTc4MjkyMWE4ZTcwODAy@195.7.6.160:18550#https://t.me/V2rayBaaz
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3NTc4MjkyMWE4ZTcwODAy@195.7.6.160:18550#✅ @Hddify
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ==@45.144.31.24:443#⚡Telegram = @SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#ConfigV2RayNG
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#channel : @freedomofinfor
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOTE2MTUwZWZlZGQyZDE3@154.205.134.155:24851#[86474] - Telegram : @V2All
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2XzB1RmZJVHBlQ184U1Y5WXp4TTdn@sb.matrixcs.ir:2086#⚡Telegram = @SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#⚡Telegram = @SOSkeyNET
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443?#@filembad
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#r♡ya@V2rayBaaz◇⃟💜
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVR3g2akt6S1VWXzZCQmRvVEtTMFdn@t-nl1.myatris.org:4301#
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVR3g2akt6S1VWXzZCQmRvVEtTMFdn@t-nl1.myatris.org:4301#@Hddify
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVR3g2akt6S1VWXzZCQmRvVEtTMFdn@t-nl1.myatris.org:4301#@YamYamProxy 💚
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVR3g2akt6S1VWXzZCQmRvVEtTMFdn@t-nl1.myatris.org:4301#https://t.me/V2rayBaaz
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpibF8wWTNFeUdjMzc3c0pqTmJ4UE5B@sb.matrixcs.ir:2086#@YamYamProxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpibF8wWTNFeUdjMzc3c0pqTmJ4UE5B@sb.matrixcs.ir:2086#@vpnbaz | نت ملی
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqZW9hUjFOcGUyZG9PaDR2cGpkbkFR@xcel999z.pet0er23mh21qq.com:1080#@filembad
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#r♡ya@V2rayBaaz◇⃟💜
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.191:8080#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.194:8080#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆²
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#channel : @freedomofinfor همراه
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#⚡Telegram = @SOSkeyNET
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpub2Rlcy1iMjExZjI4YQ@node-tr-1.v2sv.top:990#🇩🇪@JKVPN
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#@V2ray_Alpha--0
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#@YamYamProxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#@icv2ray
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.150:8080#⚡Telegram = @prrofile_purple
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#@YamYamProxy
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#@vpnbaz | نت ملی
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#r♡ya@V2rayBaaz◇⃟💜
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#t.me/acccrd
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.152:8080#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆²
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.82:8080#[🇳🇱]t.me/ConfigsHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDE5My4yOS4xMzkuMTUxOjgwODA=#@Capoit
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDE5My4yOS4xMzkuMTUxOjgwODA=#@sogoandfuckyourlove
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#ConfigV2RayNG
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#℡▷ @freedomofinfor
-ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#⚡Telegram = @SOSkeyNET
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:11696#🇲🇾 马来西亚
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:22039#🇯🇵 日本
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:27186#🇭🇰 香港
 ss://YWVzLTEyOC1nY206NjJjNGY0YTctNTI4OS00YTBmLTk4ZjAtNDA3ZGE4MTAzZGMw@didiaosanwan.fkfkd.cn:29586#🇹🇼 台湾
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#@YamYamProxy
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#r♡ya@V2rayBaaz◇⃟💜
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#@YamYamProxy
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#r♡ya@V2rayBaaz◇⃟💜
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@141.98.101.179:443#⚡Telegram = @SOSkeyNET
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#@icv2ray
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#@vpnbaz 🌳
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.169:443#⚡Telegram = @prrofile_purple
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#@icv2ray
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@156.146.38.170:443#⚡Telegram = @prrofile_purple
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMTU2LjE0Ni4zOC4xNjk6NDQz#🦾سرورها بیشتردرکانالsirarm1n@🦾
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3NAMTU2LjE0Ni4zOC4xNzA6NDQz#✅سرورها بیشتردرکانالsirarm1n@✅
 ss://YWVzLTEyOC1nY206dThncDE0OGl6OTBkZG9vNm1zMzc=@146.70.90.196:17454#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆⁵
 ss://YWVzLTEyOC1nY206dnZ0OHVyMmJqanpiMm44emU1M2w=@86.106.84.196:13263#telegram » 𝗺𝗮𝗶𝗻𝘃𝟮𝗿𝗮𝘆⁴
 ss://YWVzLTI1Ni1nY206N2UxZGQ0YzU1YmY4NWRhNQ@212.192.15.59:1092#HongKong (1)
+ss://cmM0LW1kNTpiMTNjNGMwMjFjZWMyYzBi@154.90.55.15:11201#⚡Telegram = @SOSkeyNET
 ssr://MTE2LjE2Mi4xMjAuMjQ6NTYyOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRldDhKK0hzRjlJUzEvcHBwbm11Szg9ssr://MTE2LjE2Mi4xMjAuNDk6NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRldDhKK0hzRjlJUzEvcHBwbm11Szg9trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BDtrojan://origin@content-provider12.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
 ssr://MTE2LjE2Mi4xMjAuMjQ6NTYyOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRldDhKK0hzRjlJUzEvcHBwbm11Szg9ssr://MTE2LjE2Mi4xMjAuNDk6NTYwOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRldDhKK0hzRjlJUzEvcHBwbm11Szg9trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BDtrojan://origin@content-provider12.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
 ssr://c2ctYW0zLmVxc3Vuc2hpbmUuY29tOjMyMDAxOm9yaWdpbjphZXMtMjU2LWNmYjp0bHMxLjJfdGlja2V0X2F1dGg6TTJjd1pFaHNTMDFGLz9ncm91cD1hSFIwY0hNNkx5OTJNbkpoZVhObExtTnZiUT09JnJlbWFya3M9OEorSHVQQ2ZoNnhmVTBkZjVwYXc1WXFnNVoyaA==ssr://MTE2LjE2Mi4xMjAuNjA6NTYxOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTk=ssr://MTE2LjE2Mi4xMjAuMzE6NTYyOmF1dGhfYWVzMTI4X21kNTpjaGFjaGEyMC1pZXRmOnBsYWluOmJXSnNZVzVyTVhCdmNuUT0vP2dyb3VwPWFIUjBjSE02THk5Mk1uSmhlWE5sTG1OdmJRPT0mb2Jmc3BhcmFtPWRDNXRaUzkyY0c1b1lYUT0mcHJvdG9wYXJhbT1NamMwTkRVNmFtZHFaMnBuYW1kcVoycG4mcmVtYXJrcz04SitIcVBDZmg3TmZRMDVmNUxpdDVadTlMVDd3bjRldDhKK0hzRjlJUzEvcHBwbm11Szg9trojan://origin@content-provider12.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------必进：【TG全网导航】 1》V2rayN win 下载地址：https://t.me/macwinappchat/242》V2rayNG 安卓 下载地址： https://t.me/macwinappchat/233》V2rayU Mac 下载地址：https://t.me/macwinappchat/254》Ios请使用OneClick 小火箭 或者联系群管理员。
